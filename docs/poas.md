@@ -9,8 +9,10 @@ Portrait of a Scientist is a video montage series that aims to deconstruct stere
 
 ## Video Collages ## 
 
+Video collage from winter conference (Feb 2023).
 [![Watch Portrait of a Scienist Conference Video](https://img.youtube.com/vi/fxWe5EV_vhg/0.jpg)](https://www.youtube.com/watch?v=fxWe5EV_vhg&ab_channel=PortraitofAScientist)
 
+Video collage from at-home submissions during the pandemic (Oct 2020). 
 [![Watch Portrait of a Scienist At-Home Video](https://img.youtube.com/vi/lL0VaAb8fE0/0.jpg)](https://www.youtube.com/watch?v=lL0VaAb8fE0&ab_channel=PortraitofAScientist)
 
 ## Contribute ##
@@ -19,7 +21,7 @@ Note that these contributions will be shared on social media and that that each 
 
 ### Personal Contribution ###
 
-There are many ways to contribute, with the theme of finishing the phrase "I am a _______ [STEM position or field of study] and I also __________". [Submit here](https://tiny.cc/POAS)
+There are many ways to contribute, with the theme of finishing the phrase "I am a _______ [STEM position or field of study] and I also __________". [Submit here](https://tiny.cc/POAS)!
 
 1. Submit a photo of yourself (can be old or new), include your phrase in the comments box of the submission form or write it on your picture yourself!
 2. Submit a photo of yourself holding your phrase on a sign--you can also print our templates!(see below)
