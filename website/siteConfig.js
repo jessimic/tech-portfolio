@@ -14,7 +14,7 @@ const users = [];
 const siteConfig = {
     title: 'Jessie Micallef', // Title for your website.
     tagline: 'Neutrinos & Neutral Networks. Empowering URMs in STEM.',
-    profilePhoto: 'img/profile.png',
+    profilePhoto: 'img/MicallefJ_Headshot_22.jpg',
     url: 'https://jessimic.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
