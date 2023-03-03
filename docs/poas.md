@@ -3,9 +3,9 @@ id: poas
 title: Portrait of a Scientist
 ---
 
-![Collage of physicists holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/PortraitOfAScientist_LakeLouise2023-compressed.png)
-
 Portrait of a Scientist aims to deconstruct stereotypes about what a scientist looks and acts like and demystify who can be a scientist. It relies on community submitted videos and images that complete the phrase "I am a scientist and I also..." Please help us show that anyone can be a scientist!
+
+![Collage of physicists holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/PortraitOfAScientist_LakeLouise2023-compressed.png)
 
 ## Contribute ##
 
