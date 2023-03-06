@@ -7,6 +7,8 @@ Portrait of a Scientist aims to deconstruct stereotypes about what a scientist l
 
 ![Collage of physicists holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/PortraitOfAScientist_LakeLouise2023-compressed.png)
 
+[Download image as pdf](.assets/PortraitOfAScientist_LakeLouise2023-compressed.pdf)
+
 ## Contribute ##
 
 Note that these contributions will be shared on social media and that that each submission will be included at the project manager's discretion. Feel free to check us out on [Facebook](https://www.facebook.com/PortraitOfAScientist)!
