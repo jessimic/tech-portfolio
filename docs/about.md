@@ -3,15 +3,20 @@ id: about
 title: About
 ---
 
-Dr. Jessie Micallef (she/they) works at IAIFI, where she uses machine learning to help uncover more information about neutrino particle properties. They are part of various neutrino experiments, including DUNE and MicroBooNE, and previously IceCube. Jessie enjoys mentoring students and empowering a diverse group of next generation researchers in STEM through chairing and running events to support women and gender minorities in physics, creating unique LGBTQ+ workshops and social media campaigns, and establishing new mentoring programs. Outside academia, she enjoys creative writing, practicing jiu jitsu, cuddling their cat Ahsoka, and attending comic cons and indie/rock concerts.
+Dr. Jessie Micallef (she/they) is a postdoc fellow at IAIFI, where she uses machine learning to help uncover more information about neutrino particle properties. They are part of various neutrino experiments, including DUNE and MicroBooNE, and previously IceCube. Jessie enjoys mentoring students and empowering a diverse group of next generation researchers in STEM through chairing and running events to support women and gender minorities in physics, creating unique LGBTQ+ workshops and social media campaigns, and establishing new mentoring programs. Outside academia, she enjoys creative writing, practicing jiu jitsu, cuddling their cat Ahsoka, and attending comic cons and indie/rock concerts.
 
 ## Current Roles
 
-- Postdoc Fellow at the NSF AI Instiute for AI and Fundamental Physics (www.iaifi.org)
+- Postdoc Fellow at the NSF AI Institute for AI and Fundamental Physics (www.iaifi.org)
 - Member of IAIFI Community Building Committee
 - Member of IAIFI Early Career and Equity Committee
 - Member of DUNE collaboration
 - Member of MicroBooNE collaboration
+
+## Education
+- Dual PhD in Physics and Computational Mathematics, Science, and Engineering from Michigan State University (2022)
+- Masters in Physics from Michigan State University (2019)
+- Bachelors in Science in Physics and Screen Arts and Cultures, minor in Chemistry, at the Residential College at University of Michigan (2016)
 
 ## Fellowships
 
@@ -21,18 +26,18 @@ Dr. Jessie Micallef (she/they) works at IAIFI, where she uses machine learning t
 
 ## Recognition
 
-- IceCube Collaboration Impact Award (IceCube Collaboration) May 2022
-- Rising Stars in Experimental Particle Physics Symposium (University of Chicago)     Sept 2021
-- Best Lightning Talk (Neutrino Physics and Machine Learning Lightning Talks)	        July 2020
-- Diversity Equity Inclusion Training Award (IceCube Collaboration)		        Jan 2020 
-- Women in Computing Award (Microsoft Windows Insider Program).  	                    Oct 2019
-- Outreach Award (Michigan State University’s Physics & Astronomy Department)              May 2019
-- William L. Williams Thesis Award	(University of Michigan)			        Apr 2016
-- Outstanding Achievement in Physics Award (University of Michigan)		       May 2015
-- Sigma Pi Sigma Physics Honor Society (University of Michigan)	         	      Inducted Feb 2015
-- Best Research Presentation	(Conference for Undergrad Women in Physics, U. Michigan)   Jan 2015
-- 1000 Pitches Technology and Hardware Winner (University of Michigan)                     Dec 2011
-- Provisional Patent (No. 61/409,855 ) for Radio Jammer Device	                   Filed 3 Nov 2010
+- IceCube Collaboration Impact Award (IceCube Collaboration): May 2022
+- Rising Stars in Experimental Particle Physics Symposium (University of Chicago): Sept 2021
+- Best Lightning Talk (Neutrino Physics and Machine Learning Lightning Talks): July 2020
+- Diversity Equity Inclusion Training Award (IceCube Collaboration): Jan 2020 
+- Women in Computing Award (Microsoft Windows Insider Program): Oct 2019
+- Outreach Award (Michigan State University’s Physics & Astronomy Department): May 2019
+- William L. Williams Thesis Award	(University of Michigan): Apr 2016
+- Outstanding Achievement in Physics Award (University of Michigan): May 2015
+- Sigma Pi Sigma Physics Honor Society (University of Michigan): Inducted Feb 2015
+- Best Research Presentation	(Conference for Undergrad Women in Physics, Univeristy of Michigan): Jan 2015
+- 1000 Pitches Technology and Hardware Winner (University of Michigan): Dec 2011
+- Provisional Patent (No. 61/409,855 ) for Radio Jammer Device: Filed 3 Nov 2010
 
 ## Publications
 
