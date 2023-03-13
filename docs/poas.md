@@ -21,11 +21,11 @@ There are many ways to contribute, with the theme of finishing the phrase "I am 
 2. Submit a photo of yourself holding your phrase on a sign--you can also print our templates!(see below)
 3. Submit a video of yourself saying the phrase (props welcome but not necessary).
 
-The phrase is open ended, so you can feel free to talk about a hobby, place of origin, cultural identity, religion, race, gender, sexuality, other roles (ie. mother, father, caretaker, etc.), anything else you want to share! You can also submit one or many!
+The phrase is open ended, so you can feel free to talk about a hobby, place of origin, cultural identity, religion, race, gender, sexuality, other roles (ie. mother, father, caretaker, etc.), educational background, anything else you want to share! You can also submit one or many!
 
 ### Group Contribution ###
 
-Want to gather responses at your own institution/collaboration/conference? Save the templates below and have them available for people to complete! Send me the pictures of the result and I will edit into a video and collage for distribution.
+Want to gather responses at your own institution/collaboration/conference? Save the templates below and have them available for people to complete! Send me the pictures of the result and I will edit into a video and collage for distribution. Email to portraitscientist@gmail.com.
 
 ### Templates ###
 Links to download the [color](./assets/Portrait-of-a-Scientist_Template_Color.pdf) and [black and white](./assets/Portrait-of-a-Scientist_Template_BW.pdf) template signs of "I am blank and I also blank".
@@ -41,5 +41,9 @@ Video collage from winter conference (Feb 2023). Click image to play on youtube:
 Video collage from at-home submissions during the pandemic (Oct 2020). Click image to play on youtube: <br />  
 
 [![Watch Portrait of a Scienist At-Home Video](https://img.youtube.com/vi/lL0VaAb8fE0/0.jpg)](https://www.youtube.com/watch?v=lL0VaAb8fE0&ab_channel=PortraitofAScientist)
+
+## Subscribe ##
+
+Want to stay up to date about new project postings and calls for contributions? [Subscribe!](http://eepurl.com/imNhbo)
 
 
