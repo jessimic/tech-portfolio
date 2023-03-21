@@ -18,10 +18,13 @@ Poster Source: https://neutrinos.fnal.gov/whats-a-neutrino/
 
 ## Neural Networks
 
-Neural Networks are machine learning tools with multifaceted methods. 
+Neural Networks are machine learning tools that use computational training methods to understand input data, such as images, and identify certain features, labels, or estimate values. In physics, these have been used for particle physics interaction reconstructions and particle labeling. 
 
-<img src="./assets/FLERCNN_Architecture_Simple.png" width="70%">
+My past work focused on developing Convolutional Neural Networks (CNNs) to reconstruct neutrinos interactions in the IceCube detector. This architecture was trained and tested for 5 different reconstruction tasks, which can be used to identify atmospheric neutrinos and constraint the neutrino oscillation parameters.
 
+<img src="./assets/FLERCNN_Architecture_Simple.png" width="65%">
+
+Other more complex neural networks, including encoder-decoder, sparse CNNs, and graph neural networks, are leveraged to reconstruct neutrino interactions in Liquid Argon Time Projection Chamber (LArTPC) detectors. This library has been developed with plans to apply to DUNE. The architecture and outputs are describted by the image below.
 
 <img src="https://github.com/DeepLearnPhysics/lartpc_mlreco3d/blob/develop/images/full_chain.png?raw=true" width="65%">
 
