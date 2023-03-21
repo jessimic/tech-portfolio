@@ -7,6 +7,8 @@ Dr. Jessie Micallef (she/they) is a postdoc fellow at IAIFI, where she uses mach
 
 LinkedIn: https://www.linkedin.com/in/jlmicallef/
 
+<img src="./assets/bowling.jpg" width="50%"> <img src="./assets/Jessie_Micallef_and_Ahsoka.jpg" width="30%">
+
 ## Current Roles
 
 - Postdoc Fellow at the NSF AI Institute for AI and Fundamental Physics (www.iaifi.org)
@@ -26,6 +28,8 @@ LinkedIn: https://www.linkedin.com/in/jlmicallef/
 - Association for Computing Machinery (ACM) Special Interest Group on High Performance Computing (SIGHPC) and Intel Computational Science Fellowship: July 2017 - July 2021
 - National Science Foundation Graduate Research Fellowship: Sept 2017 - Sept 2022
 
+<img src="./assets/336596340_626927789269355_6712213562367896535_n.jpg" width="50%">
+
 ## Recognition
 
 - IceCube Collaboration Impact Award (IceCube Collaboration): May 2022
@@ -40,6 +44,8 @@ LinkedIn: https://www.linkedin.com/in/jlmicallef/
 - Best Research Presentation	(Conference for Undergrad Women in Physics, Univeristy of Michigan): Jan 2015
 - 1000 Pitches Technology and Hardware Winner (University of Michigan): Dec 2011
 - Provisional Patent (No. 61/409,855 ) for Radio Jammer Device: Filed 3 Nov 2010
+
+ <img src="./assets/CERN_Jan2023.jpg" width="30%">
 
 ## Publications
 
