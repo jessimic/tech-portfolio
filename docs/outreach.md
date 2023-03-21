@@ -3,7 +3,7 @@ id: outreach
 title: Outreach
 ---
 
-<img src="./assets/2019_CUWiP_Group.jpg" width="60%">
+<img src="./assets/2019 CUWiP Group.jpg" width="70%">
 CUWiP 2019 at Michigan State University, where Jessie was co-Chair.
 
 ## Conference for Undergraduate Women in Physics (CUWIP)
@@ -20,7 +20,7 @@ CUWiP 2019 at Michigan State University, where Jessie was co-Chair.
   - Where: Virtual (2023), Virtual (2022), Toledo University (2018)
   - What: Share knowledge and experiences in physics with undergraduate women on panel and at conference events.
 
-<img src="./assets/PXL_20210906_114030949.MP.jpg" width="60%">
+<img src="./assets/PXL_20210906_114030949.MP.jpg" width="50%">
 Jessie and WaMPS mentee Laura, walking the Mackinac Bridge together.
 
 ## Additional Diversity and Outreach
@@ -57,7 +57,7 @@ Jessie and WaMPS mentee Laura, walking the Mackinac Bridge together.
   - Where: University of Michigan (Ann Arbor, Michigan)
   - What: Committee Chair for Slauson Middle School “Demo Day,” volunteer for Girl Scouts Day and Capstone. Organized community outreach events to spark young students’ interest in physics.Created “Update from Alumni” video for the society’s 10th anniversary.
 
-<img src="./assets/IMG_0105.jpg" width="60%">
+<img src="./assets/IMG_0105.jpg" width="50%">
 
 ## Teaching
 * SL@MS Programming Workshop & Activities
