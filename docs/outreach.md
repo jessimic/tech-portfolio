@@ -1,6 +1,6 @@
 ---
 id: outreach
-title: Outreach
+title: Teaching & Outreach
 ---
 
 <img src="./assets/2019 CUWiP Group.jpg" width="70%">
