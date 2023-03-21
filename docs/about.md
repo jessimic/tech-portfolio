@@ -3,14 +3,20 @@ id: about
 title: About
 ---
 
-<img src="./assets/Jessie_Micallef_and_Ahsoka.jpg" width="30%">
+<img src="./assets/Jessie_Micallef_and_Ahsoka.jpg" width="30%" Jessie and their cat Ahsoka>
+
 
 Dr. Jessie Micallef (she/they) is a postdoc fellow at IAIFI, where she uses machine learning to help uncover more information about neutrino particle properties. They are part of various neutrino experiments, including DUNE and MicroBooNE, and previously IceCube. Jessie enjoys mentoring students and empowering a diverse group of next generation researchers in STEM through chairing and running events to support women and gender minorities in physics, creating unique LGBTQ+ workshops and social media campaigns, and establishing new mentoring programs. Outside academia, she enjoys creative writing, practicing jiu jitsu, cuddling their cat Ahsoka, and attending comic cons and indie/rock concerts.
 
 LinkedIn: https://www.linkedin.com/in/jlmicallef/
 
-<img src="./assets/bowling.jpg" width="50%">
-
+<p>
+<img src="./assets/bowling.jpg" width="50%" Jessie with DUNE collaborators bowling in Geneva, Switzerland>
+ </p>
+<p>
+ <em>Jessie with DUNE collaborators bowling in Geneva, Switzerland<em>
+</p>
+ 
 ## Current Roles
 
 - Postdoc Fellow at the NSF AI Institute for AI and Fundamental Physics (www.iaifi.org)
@@ -30,7 +36,11 @@ LinkedIn: https://www.linkedin.com/in/jlmicallef/
 - Association for Computing Machinery (ACM) Special Interest Group on High Performance Computing (SIGHPC) and Intel Computational Science Fellowship: July 2017 - July 2021
 - National Science Foundation Graduate Research Fellowship: Sept 2017 - Sept 2022
 
-<img src="./assets/336596340_626927789269355_6712213562367896535_n.jpg" width="50%">
+<img src="./assets/336596340_626927789269355_6712213562367896535_n.jpg" width="50%" Jessie standing with other IceCube collaborators holding the IceCube impact award>
+/p>
+<p>
+ <em>Jessie standing with other IceCube collaborators holding the IceCube impact award<em>
+</p>
 
 ## Recognition
 
@@ -47,8 +57,12 @@ LinkedIn: https://www.linkedin.com/in/jlmicallef/
 - 1000 Pitches Technology and Hardware Winner (University of Michigan): Dec 2011
 - Provisional Patent (No. 61/409,855 ) for Radio Jammer Device: Filed 3 Nov 2010
 
- <img src="./assets/CERN_Jan2023.jpg" width="30%">
-
+ <img src="./assets/CERN_Jan2023.jpg" width="30%" Jessie inside one of the protoDUNE detectors at CERN>
+ </p>
+<p>
+ <em>Jessie inside one of the protoDUNE detectors at CERN<em>
+</p>
+  
 ## Publications
 
 Member of large particle physics collaborations, author lists are alphabetical. Listing publications with direct contribution here, full list of publications available.
