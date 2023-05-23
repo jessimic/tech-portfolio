@@ -15,7 +15,7 @@ Note that these contributions will be shared on social media and that that each 
 
 ### Personal Contribution ###
 
-There are many ways to contribute, with the theme of finishing the phrase "I am a _______ [STEM position or field of study] and I also __________". [Submit here](https://tiny.cc/POAS)!
+There are many ways to contribute, with the theme of finishing the phrase "I am a _______ [STEM position or field of study] and I also __________". [Submit here](https://forms.gle/Ze1eJA6T8jBqQtkB9.)!
 
 1. Submit a photo of yourself (can be old or new), include your phrase in the comments box of the submission form or write it on your picture yourself!
 2. Submit a photo of yourself holding your phrase on a sign--you can also print our templates!(see below)
