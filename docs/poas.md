@@ -5,9 +5,7 @@ title: Portrait of a Scientist
 
 Portrait of a Scientist aims to deconstruct stereotypes about what a scientist looks and acts like and demystify who can be a scientist. It relies on community submitted videos and images that complete the phrase "I am a scientist and I also..." Please help us show that anyone can be a scientist!
 
-![Collage of physicists holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/PortraitOfAScientist_LakeLouise2023-compressed.png)
-
-[Download image as pdf](.assets/PortraitOfAScientist_LakeLouise2023-compressed.pdf)
+![Collage of physicists holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/POAS_DUNE_4x3.png)
 
 ## Contribute ##
 
@@ -15,7 +13,7 @@ Note that these contributions will be shared on social media and that that each 
 
 ### Personal Contribution ###
 
-There are many ways to contribute, with the theme of finishing the phrase "I am a _______ [STEM position or field of study] and I also __________". [Submit here](https://forms.gle/Ze1eJA6T8jBqQtkB9.)!
+There are many ways to contribute, with the theme of finishing the phrase "I am a _______ [STEM position or field of study] and I also __________". [Submit here](https://forms.gle/Ze1eJA6T8jBqQtkB9)!
 
 1. Submit a photo of yourself (can be old or new), include your phrase in the comments box of the submission form or write it on your picture yourself!
 2. Submit a photo of yourself holding your phrase on a sign--you can also print our templates!(see below)
@@ -25,10 +23,20 @@ The phrase is open ended, so you can feel free to talk about a hobby, place of o
 
 ### Group Contribution ###
 
-Want to gather responses at your own institution/collaboration/conference? Save the templates below and have them available for people to complete! Send me the pictures of the result and I will edit into a video and collage for distribution. Email to portraitscientist@gmail.com.
+Want to gather responses at your own institution/collaboration/conference? Save the templates below and have them available for people to complete! Send me the pictures of the result and I will edit into a collage for distribution. Email to portraitscientist@gmail.com.
 
 ### Templates ###
 Links to download the [color](./assets/Portrait-of-a-Scientist_Template_Color.pdf) and [black and white](./assets/Portrait-of-a-Scientist_Template_BW.pdf) template signs of "I am blank and I also blank".
+
+## Picture Collages ##
+
+### Download as pdf ##
+
+[DUNE Collaboration Meeting May 2023](.assets/POAS_DUNE_4x3.pdf):
+see top image
+
+[Conference February 2023](.assets/PortraitOfAScientist_LakeLouise2023-compressed.pdf):
+![Collage of physicists holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/PortraitOfAScientist_LakeLouise2023-compressed.png)
 
 ## Video Collages ## 
 
