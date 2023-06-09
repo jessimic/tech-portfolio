@@ -5,7 +5,7 @@ title: Portrait of a Scientist
 
 Portrait of a Scientist aims to deconstruct stereotypes about what a scientist looks and acts like and demystify who can be a scientist. It relies on community submitted videos and images that complete the phrase "I am a scientist and I also..." Please help us show that anyone can be a scientist!
 
-![Collage of physicists holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/POAS_DUNE_4x3.png)
+![Collage of physicists holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/POAS_DUNE_4x3_FINAL.png)
 
 ## Contribute ##
 
@@ -26,13 +26,13 @@ The phrase is open ended, so you can feel free to talk about a hobby, place of o
 Want to gather responses at your own institution/collaboration/conference? Save the templates below and have them available for people to complete! Send me the pictures of the result and I will edit into a collage for distribution. Email to portraitscientist@gmail.com.
 
 ### Templates ###
-Links to download the [color](./assets/Portrait-of-a-Scientist_Template_Color.pdf) and [black and white](./assets/Portrait-of-a-Scientist_Template_BW.pdf) template signs of "I am blank and I also blank".
+Links to download the [color](./assets/Portrait-of-a-Scientist_Template_Color.pdf) and [black and white](./assets/Portrait-of-a-Scientist_Template_BW.pdf) template signs of "I am blank and I also blank". Also download a [sign-up sheet](./assets/POAS_SignUp_Sheets.pdf), to get permission from everyone to post their picture online.
 
 ## Picture Collages ##
 
 ### Download as pdf ##
 
-[DUNE Collaboration Meeting May 2023](.assets/POAS_DUNE_4x3.pdf):
+[DUNE Collaboration Meeting May 2023](.assets/POAS_DUNE_4x3_FINAL.pdf):
 see top image
 
 [Conference February 2023](.assets/PortraitOfAScientist_LakeLouise2023-compressed.pdf):
