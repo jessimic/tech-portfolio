@@ -21,9 +21,9 @@ There are many ways to contribute, with the theme of finishing the phrase "I am 
 
 The phrase is open ended, so you can feel free to talk about a hobby, place of origin, cultural identity, religion, race, gender, sexuality, other roles (ie. mother, father, caretaker, etc.), educational background, anything else you want to share! You can also submit one or many!
 
-### Group Contribution ###
+### Run the Project Yourself! ###
 
-Want to gather responses at your own institution/collaboration/conference? Save the templates below and have them available for people to complete! Send me the pictures of the result and I will edit into a collage for distribution. Email to portraitscientist@gmail.com.
+Want to gather responses at your own institution/collaboration/conference? Save the templates below and have them available for people to complete! I would love to see the final product, and share on this website if you have everyone's permission. If you want help putting together the pictures into a collage, share a folder with the pictures and I will edit them together for distribution! Email to portraitscientist@gmail.com.
 
 ### Templates ###
 Links to download the [color](./assets/Portrait-of-a-Scientist_Template_Color.pdf) and [black and white](./assets/Portrait-of-a-Scientist_Template_BW.pdf) template signs of "I am blank and I also blank". Also download a [sign-up sheet](./assets/POAS_SignUp_Sheets.pdf), to get permission from everyone to post their picture online.
