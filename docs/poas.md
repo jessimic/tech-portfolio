@@ -5,8 +5,7 @@ title: Portrait of a Scientist
 
 Portrait of a Scientist aims to deconstruct stereotypes about what a scientist looks and acts like and demystify who can be a scientist. It relies on community submitted videos and images that complete the phrase "I am a scientist and I also..." Please help us show that anyone can be a scientist!
 
-![Collage of scientists from the Penn State Physics Department holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies]
-(./assets/PennState_POAS.png)
+![Collage of scientists from the Penn State Physics Department holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/PennState_POAS.png)
 
 ## Contribute ##
 
@@ -34,6 +33,7 @@ Links to download the [color](./assets/Portrait-of-a-Scientist_Template_Color.pd
 ### Download as pdf ##
 
 [Penn State Physics Department Visit November 2023](.assets/PennState_POAS.pdf):
+see above image
 
 [DUNE Collaboration Meeting May 2023](.assets/POAS_DUNE_4x3_FINAL.pdf):
 ![Collage of scientists part of the Deep Underground Neutrino Experiment holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/POAS_DUNE_4x3_FINAL.png)
