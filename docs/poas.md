@@ -5,7 +5,7 @@ title: Portrait of a Scientist
 
 Portrait of a Scientist aims to deconstruct stereotypes about what a scientist looks and acts like and demystify who can be a scientist. It relies on community submitted videos and images that complete the phrase "I am a scientist and I also..." Please help us show that anyone can be a scientist!
 
-![Collage of scientists from the MicroBooNE collaboration holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/uBooNE_Portrait_of_Scientist.png)
+![Collage of scientists from the MicroBooNE collaboration holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/POAS_uboone.png)
 
 ## Contribute ##
 
@@ -32,7 +32,7 @@ Links to download the [color](./assets/Portrait-of-a-Scientist_Template_Color.pd
 
 ### Download as pdf ##
 
-[MicroBooNE Collaboration Meeting January 2024](.assets/uBooNE_Portrait_of_Scientist.pdf):
+[MicroBooNE Collaboration Meeting January 2024](.assets/POAS_uboone.pdf):
 see above photo.
 
 [Penn State Physics Department Visit November 2023](.assets/PennState_POAS.pdf):
