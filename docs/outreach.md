@@ -3,26 +3,32 @@ id: outreach
 title: Outreach & Teaching
 ---
 
+
 <p>
-<img src="./assets/2019 CUWiP Group.jpg" width="70%" Group of 200 women in physics at the 2019 conference for undergraduate women in phsyics at MSU>
+<img src="./assets/young_dune_trivia_social.png" width="40%" Image of about 50 early career members on Young DUNE after a trivia night run by Jessie for a collaboration meeting social>
 </p>
 <p>
-    <em>CUWiP 2019 at Michigan State University, where Jessie was co-Chair.</em>
+    <em>Early career members on Young DUNE after a trivia night run by Jessie (front right) for a collaboration meeting social at CERN.</em>
 </p>
 
-## Conference for Undergraduate Women in Physics (CUWIP)
-* Co-Chair of Conference
-  - When: January 2018 - January 2019
-  - Where: Michigan State University (East Lansing, Michigan)
-  - What: Organized and delegated conference to support, inspire, and educate 180 undergraduate women in physics. Created a program that hosted content from 100+ speakers and volunteers with workshops focused on physics research, personal and professional development, and career path options for women in physics.
-* Organizing Committees
-  - When: September 2014 - January 2015,  September 2020
-  - Where: Virtual (2020), University of Michigan (2014-2015)
-  - What: Served on agenda committee to advise American Physical Society’s first virtual CUWiP program (2020). Contribute to Local Organizing Committee for 2015 CUWiP by coordinating volunteers for photography and videography, merchandise and branding for awards and giveaways, and attending regular planning meetings. 
-* Panelist
-  - When: January 2018, January 2022, January 2023
-  - Where: Virtual (2023), Virtual (2022), Toledo University (2018)
-  - What: Share knowledge and experiences in physics with undergraduate women on panel and at conference events.
+## Additional Diversity and Outreach
+* Young DUNE Spokesperson Advisory Committee Representative
+    - When: August 2023 - present
+    - Where: Deep Underground Neutrino Experiment (DUNE) Collaboration
+    - What: Advocate for the interests and concerns of early career scientists on the DUNE collaboration and bring them to the Spokesperson Advisory Committee meetings. Implement new “Buddy System” where new collaboration members are matched with more senior members during the collaboration meetings, including both virtual and in-person attendees to encourage networking.
+* Portrait of a Scientist Diversity Project
+  - When: August 2020 - present
+  - Where: Virtual and In Person at Various Conferences
+  - What: Deconstruct stereotypes about what a scientist looks like & how they act by showing multifaceted identities. Collect community submissions completing the phrase "I am a scientist and I also..." Designed photo collage and video montage, available at https://jessimic.github.io/tech-portfolio/docs/poas
+* IAIFI Early Career and Equity Committee
+  - When: February 2022 - present
+  - Where: NSF AI Institute for Artificial Intelligence and Fundamental Interactions
+  - What: Meet monthly to discuss improvements to provide equitable environment at IAIFI and support early career scientists by providing recommendation. Spearheaded conscious effect to integrate affinity group celebrations (history months, STEM+ days) into our event planning to increase awareness of minorities to support and make IAIFI events more accessible.
+* IAIFI Community Building Committee
+  - When: September 2022 - present
+  - Where: NSF AI Institute for Artificial Intelligence and Fundamental Interactions
+  - What: Organize various events with awareness to integrate IAIFI members from all career & work-life backgrounds. Coordinate new regular events, including “games and crafts” nights and weekly brown bag lunches. Contributed to proposal accepted by MIT Quality of Life program to fund a workshop on the discussion of creative Artificial Intelligence methods (like ChatGPT) and the ethics behind them.
+
 
 <p>
 <img src="./assets/PXL_20210906_114030949.MP.jpg" width="40%" Selfie of Jessie and Laura on the Mackinac Bridge>
@@ -31,19 +37,6 @@ title: Outreach & Teaching
     <em>Jessie and WaMPS mentee Laura, walking the Mackinac Bridge together.</em>
 </p>
 
-## Additional Diversity and Outreach
-* IAIFI Early Career and Equity Committee
-  - When: February 2022 - present
-  - Where: NSF AI Institute for Artificial Intelligence and Fundamental Interactions
-  - What: Meet monthly to discuss improvements to provide equitable environment at IAIFI and support early career scientists by providing recommendation. Spearheaded conscious effect to integrate affinity group celebrations (history months, STEM+ days) into our event planning to increase awareness of minorities to support and make IAIFI events more accessible
-* IAIFI Community Building Committee
-  - When: September 2022 - present
-  - Where: NSF AI Institute for Artificial Intelligence and Fundamental Interactions
-  - What: Organize various events with awareness to integrate IAIFI members from all career & work-life backgrounds. Coordinate new regular events, including “games and crafts” nights and weekly brown bag lunches. Contributed to proposal accepted by MIT Quality of Life program to fund a workshop on the discussion of creative Artificial Intelligence methods (like ChatGPT) and the ethics behind them
-* Portrait of a Scientist Diversity Project
-  - When: August 2020 - present
-  - Where: Virtual and In Person at Various Conferences
-  - What: Deconstruct stereotypes about what a scientist looks like and how they act. Collect community submissions completing the phrase "I am a scientist and I also..." Designed photo collage and video montage, available at https://jessimic.github.io/tech-portfolio/docs/poas
 * Diversity Task Force
   - When: February 2021 - August 2022
   - Where: IceCube Collaboration (virtual)
@@ -64,6 +57,27 @@ title: Outreach & Teaching
   - When: September 2013 – April 2016
   - Where: University of Michigan (Ann Arbor, Michigan)
   - What: Committee Chair for Slauson Middle School “Demo Day,” volunteer for Girl Scouts Day and Capstone. Organized community outreach events to spark young students’ interest in physics.Created “Update from Alumni” video for the society’s 10th anniversary.
+
+<p>
+<img src="./assets/2019 CUWiP Group.jpg" width="70%" Group of 200 women in physics at the 2019 conference for undergraduate women in phsyics at MSU>
+</p>
+<p>
+    <em>CUWiP 2019 at Michigan State University, where Jessie was co-Chair.</em>
+</p>
+
+## Conference for Undergraduate Women in Physics (CUWIP)
+* Co-Chair of Conference
+  - When: January 2018 - January 2019
+  - Where: Michigan State University (East Lansing, Michigan)
+  - What: Organized and delegated conference to support, inspire, and educate 180 undergraduate women in physics. Created a program that hosted content from 100+ speakers and volunteers with workshops focused on physics research, personal and professional development, and career path options for women in physics.
+* Organizing Committees
+  - When: September 2014 - January 2015,  September 2020
+  - Where: Virtual (2020), University of Michigan (2014-2015)
+  - What: Served on agenda committee to advise American Physical Society’s first virtual CUWiP program (2020). Contribute to Local Organizing Committee for 2015 CUWiP by coordinating volunteers for photography and videography, merchandise and branding for awards and giveaways, and attending regular planning meetings. 
+* Panelist
+  - When: January 2018, January 2022, January 2023
+  - Where: Toledo University (2018), Virtual (2022), Virtual (2023)
+  - What: Share knowledge and experiences in physics with undergraduate women on panel and at conference events.
 
 <img src="./assets/IMG_0105.jpg" width="60%" Jessie presenting at the Conference for Undergraduate Women in Physics>
 
