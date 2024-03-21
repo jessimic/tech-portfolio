@@ -3,7 +3,7 @@ id: pubpres
 title: Publications & Presentations
 ---
   
-## Publications
+## Selected Publications
 
 Member of large particle physics collaborations, author lists are alphabetical. Listing publications with direct contribution here, full list of publications available.
 - J. Micallef for the IceCube Collaboration. Using Convolutional Neural Networks to Reconstruct Energy of GeV Scale IceCube Neutrinos. JINST 16.09 (2021) ,p. C09019.
