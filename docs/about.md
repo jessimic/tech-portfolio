@@ -20,8 +20,9 @@ LinkedIn: https://www.linkedin.com/in/jlmicallef/
 ## Current Roles
 
 - Postdoc Fellow at the NSF AI Institute for AI and Fundamental Physics (www.iaifi.org)
-- Member of IAIFI Community Building Committee
-- Member of IAIFI Early Career and Equity Committee
+- Representative for Young DUNE (early career) on Spokesperson Advisory Committee
+- Committee member on IAIFI Community Building and Inclusion Committee
+- Committee member on IAIFI Early Career and Equity Committee
 - Member of DUNE collaboration
 - Member of MicroBooNE collaboration
 
@@ -30,11 +31,13 @@ LinkedIn: https://www.linkedin.com/in/jlmicallef/
 - Masters in Physics from Michigan State University (2019)
 - Bachelors in Science in Physics and Screen Arts and Cultures, minor in Chemistry, at the Residential College at University of Michigan (2016)
 
-## Fellowships
+## Fellowships and Funding
 
+- University Research Alliance Visting Scholars Porgram at Fermilab National Lab: March 2023 - June 2024
 - NSF AI Institute for Artificial Intelligence and Fundamental Physics Postdoctoral Fellowship: Sept 2022 - Aug 2025
-- Association for Computing Machinery (ACM) Special Interest Group on High Performance Computing (SIGHPC) and Intel Computational Science Fellowship: July 2017 - July 2021
 - National Science Foundation Graduate Research Fellowship: Sept 2017 - Sept 2022
+- Association for Computing Machinery (ACM) Special Interest Group on High Performance Computing (SIGHPC) and Intel Computational Science Fellowship: July 2017 - July 2021
+- Otto F. and Jenny H. Krauss Charitable Foundation Distinguished Fellowship at Michgan State University: Summer 2016
 
 <img src="./assets/336596340_626927789269355_6712213562367896535_n.jpg" width="50%" Jessie standing with other IceCube collaborators holding the IceCube impact award>
 /p>
@@ -44,6 +47,7 @@ LinkedIn: https://www.linkedin.com/in/jlmicallef/
 
 ## Recognition
 
+- Best Plot for MicroBooNE Analysis Workshop (MicroBooNE Physics Conveeners): November 2022
 - IceCube Collaboration Impact Award (IceCube Collaboration): May 2022
 - Rising Stars in Experimental Particle Physics Symposium (University of Chicago): Sept 2021
 - Best Lightning Talk (Neutrino Physics and Machine Learning Lightning Talks): July 2020
