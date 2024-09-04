@@ -33,7 +33,7 @@ Links to download the [color](./assets/Portrait-of-a-Scientist_Template_Color.pd
 ### Download as pdf ##
 
 [MicroBooNE Collaboration Meeting January 2024](./assets/POAS_uboone.pdf):
-see above photo.
+see above photo. 
 
 [Penn State Physics Department Visit November 2023](./assets/PennState_POAS.pdf):
 ![Collage of scientists from the Penn State Physics Department holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/PennState_POAS.png)
