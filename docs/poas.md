@@ -32,16 +32,16 @@ Links to download the [color](./assets/Portrait-of-a-Scientist_Template_Color.pd
 
 ### Download as pdf ##
 
-[MicroBooNE Collaboration Meeting January 2024](.assets/POAS_uboone.pdf):
+[MicroBooNE Collaboration Meeting January 2024](./assets/POAS_uboone.pdf):
 see above photo.
 
-[Penn State Physics Department Visit November 2023](.assets/PennState_POAS.pdf):
+[Penn State Physics Department Visit November 2023](./assets/PennState_POAS.pdf):
 ![Collage of scientists from the Penn State Physics Department holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/PennState_POAS.png)
 
-[DUNE Collaboration Meeting May 2023](.assets/POAS_DUNE_4x3_FINAL.pdf):
+[DUNE Collaboration Meeting May 2023](./assets/POAS_DUNE_4x3_FINAL.pdf):
 ![Collage of scientists part of the Deep Underground Neutrino Experiment holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/POAS_DUNE_4x3_FINAL.png)
 
-[Conference February 2023](.assets/PortraitOfAScientist_LakeLouise2023-compressed.pdf):
+[Conference February 2023](./assets/PortraitOfAScientist_LakeLouise2023-compressed.pdf):
 ![Collage of physicists holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/PortraitOfAScientist_LakeLouise2023-compressed.png)
 
 ## Video Collages ## 
