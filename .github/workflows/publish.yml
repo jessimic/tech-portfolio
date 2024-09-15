@@ -6,22 +6,20 @@ name: Publish Portfolio to GitHub Pages
 on:
   push:
     branches: [ main ]
-
 jobs:
   build:
     runs-on: ubuntu-latest
-    container:
-      image: joatmon08/tech-portfolio
     steps:
-    - uses: actions/checkout@v4
-    - name: Install dependencies and static website
-      run: |
-        cd website
-        yarn install
-        yarn build
-    - name: Push to Github Pages branch
-      run: |
-        cd website/build/tech-portfolio
-        touch .nojekyll
-        GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} INPUT_DIRECTORY=$(pwd) publish.sh
-        
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18' # Use a Node.js version that is compatible with the runner
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run build
+        run: npm run build
