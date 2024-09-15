@@ -27,6 +27,7 @@ jobs:
         run: npm run build
 
       - name: Publish to GitHub Pages
+        working-directory: ./website
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm run publish-gh-pages
