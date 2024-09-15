@@ -14,6 +14,8 @@ jobs:
       image: joatmon08/tech-portfolio
     steps:
     - uses: actions/checkout@v2
+      with:
+          node-version: '14'
     - name: Install dependencies and static website
       run: |
         cd website
