@@ -26,7 +26,8 @@ jobs:
         working-directory: ./website
         run: npm run build
 
-      - name: Run publish script
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: ./publish.sh
+      - name: Push to Github Pages branch
+        run: |
+          cd website/build/tech-portfolio
+          touch .nojekyll
+          GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} INPUT_DIRECTORY=$(pwd) publish.sh
