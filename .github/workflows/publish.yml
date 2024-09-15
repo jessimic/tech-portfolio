@@ -13,10 +13,7 @@ jobs:
     container:
       image: joatmon08/tech-portfolio
     steps:
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v4
-      with:
-          node-version: '14'
+    - uses: actions/checkout@v4
     - name: Install dependencies and static website
       run: |
         cd website
