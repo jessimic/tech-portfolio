@@ -26,8 +26,8 @@ jobs:
         working-directory: ./website
         run: npm run build
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./website/build  # Ensure this matches your build output directory
+      - name: Push to Github Pages branch
+        run: |
+          cd website/build/tech-portfolio
+          touch .nojekyll
+          GITHUB_TOKEN=${{ secrets.GITHUB_TOKEN }} INPUT_DIRECTORY=$(pwd) publish.sh
