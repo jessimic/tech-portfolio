@@ -11,15 +11,15 @@ title: Outreach & Teaching
     <em>Early career members on Young DUNE after a trivia night run by Jessie (front right) for a collaboration meeting social at CERN.</em>
 </p>
 
-## Additional Diversity and Outreach
+## Diversity and Outreach
+* Buddy System Program for DUNE Collaboration Meeting
+    - When: August 2023 - present
+    - Where: DUNE Collaboration Meeting
+    - What: Single-handedly developed program that aims to support new DUNE collaborators, creates new connections for people only attending virtually, and ex networking for long-time collaborators. Developed form to facilitate matching, gather interest before each collaboration meeting (3 times a year), and make matches (separating virtual & in-person attendees) in groups of 2-3. Coordinate “meet & greet” session for matched Buddies to network during the collaboration meeting. Program and survey used by IceCube collaborator to bring to the IceCube collaboration meetings.
 * Young DUNE Spokesperson Advisory Committee Representative
     - When: August 2023 - present
     - Where: Deep Underground Neutrino Experiment (DUNE) Collaboration
-    - What: Advocate for the interests and concerns of early career scientists on the DUNE collaboration and bring them to the Spokesperson Advisory Committee meetings. Implement new “Buddy System” where new collaboration members are matched with more senior members during the collaboration meetings, including both virtual and in-person attendees to encourage networking.
-* Portrait of a Scientist Diversity Project
-  - When: August 2020 - present
-  - Where: Virtual and In Person at Various Conferences
-  - What: Deconstruct stereotypes about what a scientist looks like & how they act by showing multifaceted identities. Collect community submissions completing the phrase "I am a scientist and I also..." Designed photo collage and video montage, available at https://jessimic.github.io/tech-portfolio/docs/poas
+    - What: Advocate for the interests and concerns of early career scientists on the DUNE collaboration and bring them to the Spokesperson Advisory Committee meetings. Gather impressions from 250+ early career scientists on DUNE on important issues such as ensuring early career recognition in the collaboration, improving talk request process, & potential to organize a retreat. Created Impact Award proposal that the Spokesperson Advisory Committee approved and will run yearly.
 * IAIFI Early Career and Equity Committee
   - When: February 2022 - present
   - Where: NSF AI Institute for Artificial Intelligence and Fundamental Interactions
@@ -31,7 +31,7 @@ title: Outreach & Teaching
 
 
 <p>
-<img src="./assets/PXL_20210906_114030949.MP.jpg" width="40%" Selfie of Jessie and Laura on the Mackinac Bridge>
+<img src="./assets/iaifi_sbi_tutorial_jessie.png" width="40%" Jessie working with IAIFI Summer School student>
 </p>
 <p>
     <em>Jessie and WaMPS mentee Laura, walking the Mackinac Bridge together.</em>
@@ -81,7 +81,19 @@ title: Outreach & Teaching
 
 <img src="./assets/IMG_0105.jpg" width="60%" Jessie presenting at the Conference for Undergraduate Women in Physics>
 
-## Teaching
+## Teaching and Mentoring
+* Research Mentor for 1 Graduate and 6 Undergraduate Students
+    - When: May 2019 - present
+    - Where: Virtual, Tufts University (Medford, MA), Michigan State University (East Lansing, MI)
+    - What: Define projects for students from various backgrounds & experience to improve neutrino experiments. Met weekly to regularly check on their progress, answer questions, and be available for mentoring. Supported student’s growth through encouraging talks (4) & other undergraduate research programs (4).
+* IAIFI Summer School Tutorial
+    - When: August 2024
+    - Where: Institute for Artificial Intelligence and Fundamental Interactions at Massachusetts Institute for Technology
+    - What: Wrote tutorial for Simulation-Based Inference in machine learning for graduate students and postdocs. Ran tutorial and answered summer students’ questions for two hour tutorial session.
+* MIT Summer Research Program (MSRP)
+    - What: May 2024 - August 2024
+    - Where: Massachusetts Institute for Technology (Cambridge, MA)
+    What: Resarch advisor for visiting undergraduate student in the MSRP. Worked with daily to complete a machine learning project on DUNE prototype detector.
 * SL@MS Programming Workshop & Activities
   - When: August 2018, August 2019, August 2021
   - Where: Michigan State University (East Lansing, Michigan) and virtual (in 2021)
