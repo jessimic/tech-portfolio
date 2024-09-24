@@ -34,7 +34,7 @@ title: Outreach & Teaching
 <img src="./assets/iaifi_sbi_tutorial_jessie.png" width="40%" Jessie working with IAIFI Summer School student>
 </p>
 <p>
-    <em>Jessie and WaMPS mentee Laura, walking the Mackinac Bridge together.</em>
+    <em>Jessie working with IAIFI Summer School student while presenting a tutorial on Simulation-Based Inference.</em>
 </p>
 
 * Diversity Task Force
