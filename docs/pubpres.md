@@ -2,6 +2,13 @@
 id: pubpres
 title: Publications & Presentations
 ---
+
+<p>
+<img src="./assets/Presenting_NPML2024_Jessie.jpg" width="40%" Image of Jessie presenting DUNE Near Detector slides>
+</p>
+<p>
+    <em>Jessie presenting DUNE work at Neutirno Physics and Machine Learning 2024.</em>
+</p>
   
 ## Selected Publications
 
@@ -19,8 +26,20 @@ Member of large particle physics collaborations, author lists are alphabetical. 
 - M. Tecchio, et al incl J. Micallef. The upgrade for the data acquisition system of the KOTO detector. Nucl. Instrum. Meth., A824:365–366, 2016.
 - S. Su, et al incl J. Micallef. The data acquisition system for the KOTO detector. PoS, TIPP2014:203, 2014.
 
+<p>
+<img src="./assets/NeutrinoPoster_Jessie_2024.jpg" width="40%" Image of Jessie presenting poster on Machine Learning and DUNE Near Detector Prototypes>
+</p>
+<p>
+    <em>Jessie presenting poster on DUNE work at Neutirno 2024.</em>
+</p>
+
 ## Presentations
 
+- Seminar at University of Cincinnati: December 2024 
+- Parallel talk and poster at NuFact Workshop (Argonne National Lab, IL): September 2024
+- Plenary talk at IAIFI Workshop (Massachusetts Institute of Technology, MA): August 2024
+- Talk at Neutrino Physics and Machine Learning (Virtual, Tufts University, ETH Zurich): July 2020, August 2023, June 2024
+- Poster at Neutrino2024 Conference (Milan, Italy): June 2024
 - Talk at the Second WireCell Reconstruction Summit (Brookhaven National Lab): April 2024
 - Invited talk at APS April Meeting (Sacramento, CA): April 2024
 - Seminar at Penn State’s Department of Physics: November 2023
@@ -42,3 +61,10 @@ Member of large particle physics collaborations, author lists are alphabetical. 
 - Poster at Neutrino2020 and at Neutrino Physics and Machine Learning Lightning Talks (virtual): June 2020
 - Lightning Talk at Women in Data Science Symposium (East Lansing, MI): April 2019
 - 5 posters and 1 talk on undergraduate research (various locations): January 2014 - April 2016
+
+  <p>
+<img src="./assets/NuFact2024_Poster_Jessie.jpg" width="40%" Image of Jessie presenting poster on Portrait of a Scientist>
+</p>
+<p>
+    <em>Jessie presenting poster on Portrait of a Scientist work at NuFact 2024.</em>
+</p>
