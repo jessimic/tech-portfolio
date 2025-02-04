@@ -2,6 +2,7 @@
 id: projects
 title: Research
 ---
+<img src="./assets/SM_logo_nu.png" width="50%">
 
 ## My Scientific Motivation (with jargon)
 
