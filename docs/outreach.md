@@ -11,7 +11,7 @@ title: Outreach & Teaching
     <em>Early career members on Young DUNE after a trivia night run by Jessie (front right) for a collaboration meeting social at CERN.</em>
 </p>
 
-## Diversity and Outreach
+## Community Enrichment and Outreach
 * Buddy System Program for DUNE Collaboration Meeting
     - When: August 2023 - present
     - Where: DUNE Collaboration Meeting
