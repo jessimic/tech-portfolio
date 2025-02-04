@@ -20,9 +20,7 @@ LinkedIn: https://www.linkedin.com/in/jlmicallef/
 ## Current Roles
 
 - Postdoc Fellow at the NSF AI Institute for AI and Fundamental Physics (www.iaifi.org)
-- Representative for Young DUNE (early career) on Spokesperson Advisory Committee
-- Committee member on IAIFI Community Building and Inclusion Committee
-- Committee member on IAIFI Early Career and Equity Committee
+- Convener of Oscillations and Low Energy Excess group on MicroBooNE
 - Member of DUNE collaboration
 - Member of MicroBooNE collaboration
 
