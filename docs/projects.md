@@ -2,7 +2,7 @@
 id: projects
 title: Research
 ---
-<img src="./assets/SM_logo_nu.png" width="50%">
+<img src="./assets/SM_logo_nu.png" width="50%" The Standard Model of Particle Physics depicted as a puzzle with the neutrino section removed and unable to fit perfectly with the rest of the puzzle pieces>
 
 ## My Scientific Motivation (with jargon)
 
@@ -14,7 +14,7 @@ Machine Learning (ML) methods provide fast, stable solutions for dealing with la
 
 Neutrinos are fundamental particles, meaning they cannot be broken down further, that are the source of much interest in particle physics. These nearly massless, extremely fast, and difficult to detect particles may hold the key to understand multiple questions still open in the Standard Model. 
 
-<img src="./assets/NeutrinoArePoster_Final_v2-web.jpeg" width="50%">
+<img src="./assets/NeutrinoArePoster_Final_v2-web.jpeg" width="50%" Poster describing properties of neutrinos>
 Poster Source: https://neutrinos.fnal.gov/whats-a-neutrino/
 
 ## Neural Networks
@@ -23,7 +23,7 @@ Neural Networks are machine learning tools that use computational training metho
 
 My past work focused on developing Convolutional Neural Networks (CNNs) to reconstruct neutrinos interactions in the IceCube detector. This architecture was trained and tested for 5 different reconstruction tasks, which can be used to identify atmospheric neutrinos and constraint the neutrino oscillation parameters.
 
-<img src="./assets/FLERCNN_Architecture_Simple.png" width="65%">
+<img src="./assets/FLERCNN_Architecture_Simple.png" width="65%" Machine learning architecture showing layers of convolutional neural networks in two parallel branches which are concatenated together into a dense layer for a single output>
 
 Other more complex neural networks, including encoder-decoder, sparse CNNs, and graph neural networks, are leveraged to reconstruct neutrino interactions in Liquid Argon Time Projection Chamber (LArTPC) detectors. This library has been developed with plans to apply to DUNE. The architecture and outputs are describted by the image below.
 
