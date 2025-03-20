@@ -5,11 +5,11 @@ title: Portrait of a Scientist
 
 Portrait of a Scientist aims to deconstruct stereotypes about what a scientist looks and acts like and demystify who can be a scientist. It relies on community submitted videos and images that complete the phrase "I am a scientist and I also..." Please help us show that anyone can be a scientist!
 
-![Collage of scientists from the MicroBooNE collaboration holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/POAS_uboone.png)
+![Collage of scientists from the APS Global Summit 2025 holding a sign they have filled out saying they are scientists and also other ideneities and have other hobbies](./assets/POAS_APS2025.png)
 
 ## Contribute ##
 
-Submit at [https://tinyurl.com/NuFactPOAS](https://tinyurl.com/NuFactPOAS) or scan the QR code to be taken to the google form. Feel free to check us out on [Facebook](https://www.facebook.com/PortraitOfAScientist)! Note that these contributions will be shared on social media and that that each submission will be included at the project manager's discretion. 
+Submit at [https://tinyurl.com/APS-POAS](https://tinyurl.com/APS-POAS) or scan the QR code to be taken to the google form. Feel free to check us out on [Facebook](https://www.facebook.com/PortraitOfAScientist)! Note that these contributions will be shared on social media and that that each submission will be included at the project manager's discretion. 
 
 ![QR code that links to project submisstion goole form](./assets/Submit_to_POAS.png)
 
@@ -34,8 +34,10 @@ Links to download the [color](./assets/Portrait-of-a-Scientist_Template_Color.pd
 
 ### Download as pdf ##
 
+[APS Global Summit March 2025](./assets/POAS_APS2025.pdf):
+
 [MicroBooNE Collaboration Meeting January 2024](./assets/POAS_uboone.pdf):
-see above photo. 
+![Collage of scientists from the MicroBooNE collaboration holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/POAS_uboone.png)
 
 [Penn State Physics Department Visit November 2023](./assets/PennState_POAS.pdf):
 ![Collage of scientists from the Penn State Physics Department holding a sign they have filled out saying they are physicists and also other ideneities and have other hobbies](./assets/PennState_POAS.png)
