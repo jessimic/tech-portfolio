@@ -11,7 +11,7 @@ Portrait of a Scientist aims to deconstruct stereotypes about what a scientist l
 
 Submit at [https://tinyurl.com/APS-POAS](https://tinyurl.com/APS-POAS) or scan the QR code to be taken to the google form. Feel free to check us out on [Facebook](https://www.facebook.com/PortraitOfAScientist)! Note that these contributions will be shared on social media and that that each submission will be included at the project manager's discretion. 
 
-![QR code that links to project submisstion goole form](./assets/Submit_to_POAS.png)
+<img src="./assets/qr-code.png" alt="QR code that links to project submisstion goole form" width="300">
 
 ### Personal Contribution ###
 
