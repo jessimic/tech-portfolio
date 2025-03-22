@@ -13,7 +13,7 @@ title: Publications & Presentations
 ## Selected Publications
 
 Member of large particle physics collaborations, author lists are alphabetical. Listing publications with direct contribution here, full list of publications available.
-- IceCube Collaboration: R. Abbasi et al. [Measurement of atmospheric neutrino oscillation parameters using convolutional neural networks with 9.3 years of data in IceCube DeepCore”](arxiv.org/abs/2405.02163)  Submitted to Physical Review Letters. (arxiv.org/abs/2405.02163)
+- IceCube Collaboration: R. Abbasi et al. [Measurement of atmospheric neutrino oscillation parameters using convolutional neural networks with 9.3 years of data in IceCube DeepCore”]([https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.091801]). Phys. Rev. Lett. 134, 091801. EDITOR'S SUGGESTION.
 - J. Micallef for the IceCube Collaboration. Using Convolutional Neural Networks to Reconstruct Energy of GeV Scale IceCube Neutrinos. JINST 16.09 (2021) ,p. C09019.
 - J. Micallef for the IceCube Collaboration. Reconstructing Neutrino Energy using CNNs for GeV Scale IceCube Events. PoS ICRC2021(2021) 1057.
 - S. Yu for the IceCube Collaboration. Direction Reconstruction using a CNN for GeV-ScaleNeutrinos in IceCube. PoS ICRC2021 (2021) 1054.
@@ -35,6 +35,9 @@ Member of large particle physics collaborations, author lists are alphabetical. 
 
 ## Presentations
 
+- Talk and poster at APS Global Summit (Anahiem, CA), March 2025.
+- Seminar at University of Wisconsin-Madison Physics Department, Febrauary 2025.
+- Colloquium at Notre Dame University Physics Department, Febrauary 2025.
 - Seminar at University of Cincinnati: December 2024 
 - Parallel talk and poster at NuFact Workshop (Argonne National Lab, IL): September 2024
 - Plenary talk at IAIFI Workshop (Massachusetts Institute of Technology, MA): August 2024
