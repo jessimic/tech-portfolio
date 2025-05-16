@@ -31,17 +31,17 @@ Other more complex neural networks, including encoder-decoder, sparse CNNs, and 
 
 Github with ML Reco for LArTPCs: https://github.com/DeepLearnPhysics/lartpc_mlreco3d.
 
-## DUNE - Deep Underground Neutrino Experiment
+## DUNE - Deep Underground Neutrino Experiment (2022 - present)
 
 [DUNE](https://www.dunescience.org/) aims to make precision measurements of neutrino properties to help complete a clearer picture of the foundational laws governing the visible matter in our universe. To accomplish this goal, DUNE is employing novel detector techniques that require prototype testing, such as a modularized detector of Liquid Argon Time Projection Chambers (LArTPCs). The 2x2 prototype LArTPC detector is comprised of the first 4 modules of DUNE’s Near Detector (ND) and will be taking data this summer using Fermilab’s Neutrinos at the Main Injector (NuMI) beamline.
 
-My work is expanding the Machine Learning reconstruction package in place for the 2x2 prototype LArTPC to integrate input from outer detectors that surround the LArTPC to inform the reconstruction. This requires a deep understanding of the existing machine learning reconstruction methods along with the multifunctional detectors.
+My work is expanding the Machine Learning reconstruction package in place for the 2x2 prototype LArTPC to integrate input from outer detectors that surround the LArTPC to inform the reconstruction, but have different mediums such as solid scintillator. This requires a deep understanding of the existing machine learning reconstruction methods along with the multifunctional detectors.
 
-## MicroBooNE
+## MicroBooNE (2022 - present)
 
 [MicroBooNE](https://microboone.fnal.gov/) is a large, LArTPC detector situated at the Boosted Neutrino Beamline at Fermilab. It has finished taking data, and the full dataset is still under analysis by physicist collaborators. It was placed near the MiniBooNE(https://www.fnal.gov/pub/science/experiments/intensity/miniboone.html) detector to help better understand the electron-like neutrino excess that they measured. 
 
-My work is exploring a first approximation of a sensitivity for a 3+1 oscillation analysis using three detectors (MicroBooNE, ICARUS, and SBND) and two beamlines (BNB and NuMI) at Fermilab.
+I am the oscillations and low energy excess working group co-convener. We organize anlyses in the collaboration that look for signitures that could match or explain low energy anomalies in neutrino experiment. We have directed the scope of the experiment to work on exploring combinations of various reconstruction and analysis methods while taking advantage of our full 5 year dataset to perform the most percises searches. I contribute directly to electron low energy excess searches and tool development, such as integrating a Recurrent Neural Network energy estimatior. I also am working to make a first approximation of a sensitivity for a 3+1 oscillation analysis using three detectors (MicroBooNE, ICARUS, and SBND) and two beamlines (BNB and NuMI) at Fermilab.
 
 ## Particle Physics and Neutrinos on IceCube (2016 - 2023)
 
