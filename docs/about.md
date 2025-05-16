@@ -21,6 +21,8 @@ LinkedIn: https://www.linkedin.com/in/jlmicallef/
 
 - Postdoc Fellow at the NSF AI Institute for AI and Fundamental Physics (www.iaifi.org)
 - Convener of Oscillations and Low Energy Excess group on MicroBooNE
+- Coordinator of DUNE Buddy System
+- Member of American Women in Science, American Physical Society
 - Member of DUNE collaboration
 - Member of MicroBooNE collaboration
 
@@ -38,15 +40,16 @@ LinkedIn: https://www.linkedin.com/in/jlmicallef/
 - Otto F. and Jenny H. Krauss Charitable Foundation Distinguished Fellowship at Michgan State University: Summer 2016
 
 <img src="./assets/336596340_626927789269355_6712213562367896535_n.jpg" width="50%" Jessie standing with other IceCube collaborators holding the IceCube impact award>
-/p>
 <p>
  <em>Jessie standing with other IceCube collaborators holding the IceCube impact award<em>
 </p>
 
 ## Recognition
 
+- MicroBooNE **Impact Award** for Data Release Validation (MicroBooNE Collaboration): May 2025
+- DUNE **Impact Award** for the 2x2 Core Operations Team (DUNE Collaboration): January 2025
 - Best Plot for MicroBooNE Analysis Workshop (MicroBooNE Physics Conveeners): November 2022
-- IceCube Collaboration Impact Award (IceCube Collaboration): May 2022
+- IceCube Collaboration **Impact Award** (IceCube Collaboration): May 2022
 - Rising Stars in Experimental Particle Physics Symposium (University of Chicago): Sept 2021
 - Best Lightning Talk (Neutrino Physics and Machine Learning Lightning Talks): July 2020
 - Diversity Equity Inclusion Training Award (IceCube Collaboration): Jan 2020 
@@ -65,17 +68,3 @@ LinkedIn: https://www.linkedin.com/in/jlmicallef/
  <em>Jessie inside one of the protoDUNE detectors at CERN<em>
 </p>
   
-## Publications
-
-Member of large particle physics collaborations, author lists are alphabetical. Listing publications with direct contribution here, full list of publications available.
-- J. Micallef for the IceCube Collaboration. Using Convolutional Neural Networks to Reconstruct Energy of GeV Scale IceCube Neutrinos. JINST 16.09 (2021) ,p. C09019.
-- J. Micallef for the IceCube Collaboration. Reconstructing Neutrino Energy using CNNs for GeV Scale IceCube Events. PoS ICRC2021(2021) 1057.
-- S. Yu for the IceCube Collaboration. Direction Reconstruction using a CNN for GeV-ScaleNeutrinos in IceCube. PoS ICRC2021 (2021) 1054.
-- C. Hill for the IceCube Collaboration. Performance of the D-Egg optical sensor for the IceCube-Upgrade. PoS ICRC2021 (2021), 1042.
-- R. Abbasi et al. “A Convolutional Neural Network based Cascade Recon-struction for the IceCube Neutrino Observatory.” In: (Jan. 2021). arXiv:2101.11589
-- C. Adams, et al. White Paper on Neutrino Physics and Machine Learning, in-progress
-- B. Clark, et al. IceCube and IceCube-Gen2 Machine Learning, Snowmass2021 Letter of Interest, Sept 2020.
-- S. Su, et al incl J. Micallef. The Data Acquisition System of the KOTO Experiment and the RCE Platform technology upgrade. IEEE Transactions on Nuclear Science, PP(99):1–1, 2017.
-- S. Su, et al incl J. Micallef. The Data Acquisition System of the KOTO Experiment and RPT Upgrade. In Proceedings, 20th IEEE-NPSS Real Time Conference (RT2016): Padua, Italy, June 5-10, 2016, 2016.
-- M. Tecchio, et al incl J. Micallef. The upgrade for the data acquisition system of the KOTO detector. Nucl. Instrum. Meth., A824:365–366, 2016.
-- S. Su, et al incl J. Micallef. The data acquisition system for the KOTO detector. PoS, TIPP2014:203, 2014.
