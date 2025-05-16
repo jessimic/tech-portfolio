@@ -9,12 +9,10 @@ title: About
 Dr. Jessie Micallef (they/she) is a postdoc fellow at IAIFI, where they use machine learning to help uncover more information about neutrino particle properties. She is part of various neutrino experiments, including DUNE and MicroBooNE, and previously IceCube. Jessie enjoys mentoring students and empowering a diverse group of next generation researchers in STEM through chairing and running events to support women and gender minorities in physics, creating unique LGBTQ+ workshops and social media campaigns, and establishing new networking programs. Outside academia, they enjoy creative writing, practicing jiu jitsu, cuddling her cat Ahsoka, and attending comic cons and indie/rock concerts.
 
 LinkedIn: https://www.linkedin.com/in/jlmicallef/
-
 <p>
 <img src="./assets/bowling.jpg" width="50%" Jessie with DUNE collaborators bowling in Geneva, Switzerland>
- </p>
 <p>
- <em>Jessie with DUNE collaborators bowling in Geneva, Switzerland<em>
+ <em>Jessie with DUNE collaborators bowling in Geneva, Switzerland</em>
 </p>
  
 ## Current Roles
