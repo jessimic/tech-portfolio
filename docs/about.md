@@ -17,7 +17,7 @@ LinkedIn: https://www.linkedin.com/in/jlmicallef/
  
 ## Current Roles
 
-- Postdoc Fellow at the NSF AI Institute for AI and Fundamental Physics (www.iaifi.org)
+- Postdoc Scholar in the Physics and Astronomy Department at Tufts University
 - Convener of Oscillations and Low Energy Excess group on MicroBooNE
 - Coordinator of DUNE Buddy System
 - Member of American Women in Science, American Physical Society
@@ -44,6 +44,7 @@ LinkedIn: https://www.linkedin.com/in/jlmicallef/
 
 ## Recognition
 
+- NuFact2025 Best Poster Award (NuFact Confernece): September 2025
 - MicroBooNE **Impact Award** for Data Release Validation (MicroBooNE Collaboration): May 2025
 - DUNE **Impact Award** for the 2x2 Core Operations Team (DUNE Collaboration): January 2025
 - Best Plot for MicroBooNE Analysis Workshop (MicroBooNE Physics Conveeners): November 2022
