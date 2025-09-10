@@ -14,6 +14,7 @@ title: Publications & Presentations
 
 Member of large particle physics collaborations, author lists are alphabetical. Listing publications with direct contribution here, full list of publications available.
 
+- IceCube Collaboration. Fast Low Energy Reconstruction using Convolutional Neural Networks. Submitted to JINST. ArXiv:2505.16777. May 2025.
 - MicroBooNE Collaboration. First Search for Dark Sector e+e- Explanations of the MiniBooNE Anomaly at MicroBooNE. [DOI 2502.10900](https://arxiv.org/abs/2502.10900). February 2025.
 - MicroBooNE Collaboration.  Inclusive Search for Anomalous Single-Photon Production in MicroBooNE. [DOI 2502.06064](https://arxiv.org/abs/2502.06064). February 2025.
 - MicroBooNE Collaboration. First Search for Neutral Current Coherent Single-Photon Production in MicroBooNE. [DOI 2502.06091](https://arxiv.org/abs/2502.06091). February 2025.
