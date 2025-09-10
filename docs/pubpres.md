@@ -40,7 +40,9 @@ Member of large particle physics collaborations, author lists are alphabetical. 
 
 ## Presentations
 
-- Invited Plenary at Pheno2025 Symposium (University of Pittsburgh), May 2025
+- Invited colloquium at University of Rochester Physics Department, November 2025.
+- Three talks and poster at NuFact2025 (Univsersity of Liverpool), September 2025.
+- Invited Plenary at Pheno2025 Symposium (University of Pittsburgh), May 2025.
 - Talk and poster at APS Global Summit (Anahiem, CA), March 2025.
 - Seminar at University of Wisconsin-Madison Physics Department, Febrauary 2025.
 - Colloquium at Notre Dame University Physics Department, Febrauary 2025.
