@@ -6,7 +6,7 @@ title: About
 <img src="./assets/ahsoka_jessie.jpg" width="30%" Jessie and their cat Ahsoka>
 
 
-Dr. Jessie Micallef (they/she) is a postdoc fellow at IAIFI, where they use machine learning to help uncover more information about neutrino particle properties. She is part of various neutrino experiments, including DUNE and MicroBooNE, and previously IceCube. Jessie enjoys mentoring students and empowering a diverse group of next generation researchers in STEM through chairing and running events to support women and gender minorities in physics, creating unique LGBTQ+ workshops and social media campaigns, and establishing new networking programs. Outside academia, they enjoy creative writing, practicing jiu jitsu, cuddling her cat Ahsoka, and attending comic cons and indie/rock concerts.
+Dr. Jessie Micallef (they/she) is a postdoc scholar at Tufts University, where they use machine learning to help uncover more information about neutrino particle properties. They live and work at Fermilab, which is the site for the two neutrino experiments that they are currently part of: DUNE and MicroBooNE. Jessie enjoys mentoring students and empowering a diverse group of next generation researchers in STEM through chairing and running events to support women and gender minorities in physics, creating unique LGBTQ+ workshops and social media campaigns, and establishing new networking programs. Outside academia, they enjoy creative writing, practicing jiu jitsu, cuddling their cat Ahsoka, and attending comic cons and cosplaying.
 
 LinkedIn: https://www.linkedin.com/in/jlmicallef/
 <p>
