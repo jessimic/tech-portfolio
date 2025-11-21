@@ -21,15 +21,15 @@ title: Outreach & Teaching
     - Where: DUNE Collaboration Meeting
     - What: Single-handedly developed program that aims to support new DUNE collaborators, creates new connections for people only attending virtually, and ex networking for long-time collaborators. Developed form to facilitate matching, gather interest before each collaboration meeting (3 times a year), and make matches (separating virtual & in-person attendees) in groups of 2-3. Coordinate “meet & greet” session for matched Buddies to network during the collaboration meeting. Program and survey used by IceCube collaborator to bring to the IceCube collaboration meetings.
 * Young DUNE Spokesperson Advisory Committee Representative
-    - When: August 2023 - present
+    - When: August 2023 - May 2024
     - Where: Deep Underground Neutrino Experiment (DUNE) Collaboration
     - What: Advocate for the interests and concerns of early career scientists on the DUNE collaboration and bring them to the Spokesperson Advisory Committee meetings. Gather impressions from 250+ early career scientists on DUNE on important issues such as ensuring early career recognition in the collaboration, improving talk request process, & potential to organize a retreat. Created Impact Award proposal that the Spokesperson Advisory Committee approved and will run yearly.
 * IAIFI Early Career and Equity Committee
-  - When: February 2022 - present
+  - When: February 2022 - January 2025
   - Where: NSF AI Institute for Artificial Intelligence and Fundamental Interactions
   - What: Meet monthly to discuss improvements to provide equitable environment at IAIFI and support early career scientists by providing recommendation. Spearheaded conscious effect to integrate affinity group celebrations (history months, STEM+ days) into our event planning to increase awareness of minorities to support and make IAIFI events more accessible.
 * IAIFI Community Building Committee
-  - When: September 2022 - present
+  - When: September 2022 - August 2024
   - Where: NSF AI Institute for Artificial Intelligence and Fundamental Interactions
   - What: Organize various events with awareness to integrate IAIFI members from all career & work-life backgrounds. Coordinate new regular events, including “games and crafts” nights and weekly brown bag lunches. Contributed to proposal accepted by MIT Quality of Life program to fund a workshop on the discussion of creative Artificial Intelligence methods (like ChatGPT) and the ethics behind them.
 
@@ -86,10 +86,10 @@ title: Outreach & Teaching
 <img src="./assets/IMG_0105.jpg" width="60%" Jessie presenting at the Conference for Undergraduate Women in Physics>
 
 ## Teaching and Mentoring
-* Research Mentor for 1 Graduate and 6 Undergraduate Students
+* Research Mentor for 2 Graduate and 8 Undergraduate Students
     - When: May 2019 - present
     - Where: Virtual, Tufts University (Medford, MA), Michigan State University (East Lansing, MI)
-    - What: Define projects for students from various backgrounds & experience to improve neutrino experiments. Met weekly to regularly check on their progress, answer questions, and be available for mentoring. Supported student’s growth through encouraging talks (4) & other undergraduate research programs (4).
+    - What: Define projects for students from various backgrounds & experience to improve neutrino experiments. Met weekly to regularly check on their progress, answer questions, and be available for mentoring. Supported student’s growth through encouraging talks, posters, & other undergraduate research programs.
 * IAIFI Summer School Tutorial
     - When: August 2024
     - Where: Institute for Artificial Intelligence and Fundamental Interactions at Massachusetts Institute for Technology
