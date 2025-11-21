@@ -12,6 +12,10 @@ title: Outreach & Teaching
 </p>
 
 ## Community Enrichment and Outreach
+* Social Office Hours Program for MicroBooNE Collaboration Meeting
+    - When: August 2025 - present
+    - Where: Virtual after MicroBooNE Collaboration Meeting
+    - What: Launched new program to connect collaborators virtually after collaboration meeting to facilitate discussions that could not happen during the meeting (due to time or logistics) and encourage networking. Collected 10 hosts to hold a zoom hour for participants to sign up to talk with them for 15 minutes slots. Total of 17 people signed up with participants choosing to meet with more than 1 host.
 * Buddy System Program for DUNE Collaboration Meeting
     - When: August 2023 - present
     - Where: DUNE Collaboration Meeting
