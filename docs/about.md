@@ -44,6 +44,7 @@ LinkedIn: https://www.linkedin.com/in/jlmicallef/
 
 ## Recognition
 
+- Best Poster Award at Neutrino Phyics and Machine Learning: October 2025
 - NuFact2025 Best Poster Award (NuFact Confernece): September 2025
 - MicroBooNE **Impact Award** for Data Release Validation (MicroBooNE Collaboration): May 2025
 - DUNE **Impact Award** for the 2x2 Core Operations Team (DUNE Collaboration): January 2025
