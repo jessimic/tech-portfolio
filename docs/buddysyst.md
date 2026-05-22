@@ -11,13 +11,13 @@ The goal is to create one-on-one networking matches for participants who...
 - (and/or) Seasoned attendees who ant to make connections outside their usual circle
 
 
-![DUNE Buddy Stats showing ](./assets/POAS_APS2025.png)
+![Number of years on DUNE for the participants in Januay 2026](./assets/Length_CERN2026.png)
+
+![Early career and virtual attandance on DUNE for the participants in Januay 2026](./assets/EC_Virtual_CERN2026.png)
 
 ## About the Matching ##
 
-Submit at [https://tinyurl.com/APS-POAS](https://tinyurl.com/APS-POAS) or scan the QR code to be taken to the google form. Feel free to check us out on [Facebook](https://www.facebook.com/PortraitOfAScientist)! Note that these contributions will be shared on social media and that that each submission will be included at the project manager's discretion. 
-
-<img src="./assets/qr-code.png" alt="QR code that links to project submisstion goole form" width="300">
+![DUNE Buddy System informative poster](./assets/Advert\ Buddy\ System.png)
 
 ## Adopt the Buddy System for your Meeting! ##
 
@@ -27,4 +27,8 @@ People are more than welcome to use the Buddy System Program for their own confe
 - Example of post-program survey to gather feedback
 - Tips and tricks
 - How to automate emailing in google sheets
+
+## Best Poster at NuFact 2025 ##
+
+![Creating the buddy system](./assets/Poster_ Creating the Buddy System_Micallef.pdf)
 
