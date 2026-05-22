@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Dr. Jessie Micallef', // Title for your website.
-    tagline: 'Dedicated to adapting ethical machine learning tools to further academic pursuits, learning, and research to empower everyone in STEM.',
+    tagline: 'Dedicated to adapting ethical machine learning tools to further academic pursuits, learning, and research to empower everyone in STEAM (Science, Technology, Engineering, Arts, and Mathematics).',
     profilePhoto: 'img/MicallefJ_Headshot_22.jpg',
     url: 'https://jessimic.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
