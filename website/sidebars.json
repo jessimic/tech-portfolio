@@ -1,8 +1,11 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "About": ["about"],
+    "Projects": ["projects"],
+    "Publication & Presentations": ["pubpres"],
+    "Portrait of a Scientist": ["poas"],
+    "Buddy System": ["buddysyst"],
+    "Outreach": ["outreach"],
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
