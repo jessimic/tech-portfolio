@@ -10,14 +10,11 @@ The goal is to create one-on-one networking matches for participants who...
 - (and/or) Are attending virtually, to still make at least one connection during the meeting week 
 - (and/or) Seasoned attendees who ant to make connections outside their usual circle
 
-
-![Number of years on DUNE for the participants in Januay 2026](./assets/Length_CERN2026.png)
-
-![Early career and virtual attandance on DUNE for the participants in Januay 2026](./assets/EC_Virtual_CERN2026.png)
+<img src="./assets/Length_CERN2026.png" alt="Number of years on DUNE for the participants in Januay 2026" width="400"/>             <img src="./assets/EC_Virtual_CERN2026.png" alt="Early career and virtual attandance on DUNE for the participants in Januay 2026" width="400"/>
 
 ## About the Matching ##
 
-![DUNE Buddy System informative poster](./assets/Advert\ Buddy\ System.png)
+![DUNE Buddy System informative poster](./assets/AdvertBuddySystem.jpg)
 
 ## Adopt the Buddy System for your Meeting! ##
 
@@ -29,6 +26,5 @@ People are more than welcome to use the Buddy System Program for their own confe
 - How to automate emailing in google sheets
 
 ## Best Poster at NuFact 2025 ##
-
-![Creating the buddy system](./assets/Poster_ Creating the Buddy System_Micallef.pdf)
+[Creating the buddy system](./assets/Poster_CreatingBuddySystem_Micallef.pdf)
 
