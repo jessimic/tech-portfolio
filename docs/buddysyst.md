@@ -16,6 +16,18 @@ The goal is to create one-on-one networking matches for participants who...
 
 ![DUNE Buddy System informative poster](./assets/AdvertBuddySystem.jpg)
 
+
+## Buddy System on the Move! ##
+
+The Buddy System has been adapted for multiple experiments' collaboration meetings and some upcoming conferences. A list below has some examples of who have reached out to me to adopt the program for their purposes:
+
+- IceCube Collaboration
+- T2K Collaboration
+- LZ Collaboration
+- Belle-II Collaboration
+- University of Cincinnati Physics Department
+- American Physical Society (APS) Division of Particls and Fields (DPF) Conference in July 2026
+
 ## Adopt the Buddy System for your Meeting! ##
 
 People are more than welcome to use the Buddy System Program for their own conference or meeting! There are examples of documentations available in the [Buddy System Google Drive](https://drive.google.com/drive/folders/1hLMuapic1MDwuqxRQzwDhMqqEdvfirLy?usp=drive_link)!
