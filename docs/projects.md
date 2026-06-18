@@ -2,6 +2,25 @@
 id: projects
 title: Research
 ---
+
+## Machine Learning on Particle Physics Images
+
+My projects have worked with a variety of media types for particle physics images. 
+
+
+MicroBooNE Neutrino        |  DUNE Neutrinos           | IceCube Neutrinos
+:-------------------------:|:-------------------------:|:-------------------------:
+![Image of candiate electron neutrino interaction in MicroBooNE, which is a 2D image](./assets/MicroBooNE_Event.png)  |  ![](./assets/DUNE_2x2_DATA.png) |  ![](./assets/IceCube_simulation_LE_event.png)
+
+
+
+Link for MicroBooNE: https://www.researchgate.net/publication/390354252_First_measurement_of_nu_e_and_barnu_e_charged_current_single_charged_pion_production_differential_cross_sections_on_argon_using_the_MicroBooNE_detector
+
+Link for DUNE: https://arxiv.org/pdf/2406.10123
+
+Link for IceCube: https://arxiv.org/pdf/2203.02303
+
+
 <img src="./assets/SM_logo_nu.png" width="50%" The Standard Model of Particle Physics depicted as a puzzle with the neutrino section removed and unable to fit perfectly with the rest of the puzzle pieces>
 
 ## My Scientific Motivation (with jargon)
