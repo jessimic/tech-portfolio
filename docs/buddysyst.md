@@ -1,6 +1,6 @@
 ---
 id: buddysyst
-title: Buddy System Program
+title: Buddy System Networking Program
 ---
 
 The Buddy System Program is a networking program that was developed for large conference or collaboration meetings. It has been applied to the DUNE experiment at their collaboration meeitngs, which hosts 300-500 attendees. The program is optional and aims to match attendees who opt-in with another participant, based on their preferences communitcated through a survey. 
@@ -10,12 +10,11 @@ The goal is to create one-on-one networking matches for participants who...
 - (and/or) Are attending virtually, to still make at least one connection during the meeting week 
 - (and/or) Seasoned attendees who ant to make connections outside their usual circle
 
-<img src="./assets/Length_CERN2026.png" alt="Number of years on DUNE for the participants in Januay 2026" width="400"/>             <img src="./assets/EC_Virtual_CERN2026.png" alt="Early career and virtual attandance on DUNE for the participants in Januay 2026" width="400"/>
+For the January 2026 DUNE collaboration meeting, here is a breakdown about some of the Buddy System participants:
 
-## About the Matching ##
-
-![DUNE Buddy System informative poster](./assets/AdvertBuddySystem.jpg)
-
+Number of years on DUNE | Early career and virtual attandance participation
+:-------------------------: | :-------------------------:
+![Equal participation from people new and peolpe with more than 6 years experience](./assets/Length_CERN2026.png) | ![Good participation from mid and senior career levels](./assets/EC_Virtual_CERN2026.png)
 
 ## Buddy System on the Move! ##
 
@@ -27,6 +26,11 @@ The Buddy System has been adapted for multiple experiments' collaboration meetin
 - Belle-II Collaboration
 - University of Cincinnati Physics Department
 - American Physical Society (APS) Division of Particls and Fields (DPF) Conference in July 2026
+
+## About the Matching ##
+
+![DUNE Buddy System informative poster](./assets/AdvertBuddySystem.jpg)
+
 
 ## Adopt the Buddy System for your Meeting! ##
 
