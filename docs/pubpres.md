@@ -3,7 +3,7 @@ id: pubpres
 title: Communication
 ---
 
-Jessie has been invited to share their research at 2 plenaries, 2 university colloquium, 8 seminars including CERN, and 2 talks. They have iven 25 other talks and posters on work at international conferences and workshops since 2019, with previous experience extending into their graduate career. They are known for engaging talks with clever 
+Jessie has been invited to share their research at 2 plenaries, 2 university colloquium, 8 seminars including CERN, and 2 talks. They have iven 25 other talks and posters on work at international conferences and workshops since 2019, with previous experience extending into their graduate career. They are known for engaging talks with clever graphics, with some examples below.
 
 
 Catching Neutrinos        |  ML Alphabet Soup          | Open Questions about Neutrinos
