@@ -12,7 +12,7 @@ title: Teaching and Engagement
 
 Jessie working with IAIFI Summer School student during their tutorial |
 :-------------------------: |
-![Jessie working with IAIFI Summer School student while presenting a tutorial on Simulation-Based Inference](./assets/iaifi_sbi_tutorial_jessie.png)
+![Jessie working with IAIFI Summer School student while presenting a tutorial on Simulation-Based Inference](./assets/iaifi_sbi_tutorial_jessie.png) |
 
 ## Personal Highlights
 * Co-Chair of Conference for Undergraduate Women in Physics
@@ -86,7 +86,7 @@ Jessie working with IAIFI Summer School student during their tutorial |
 
 50 early career members on Young DUNE after a trivia night run by Jessie for a collaboration meeting social |
 :-------------------------: |
-![Early career members on Young DUNE after a trivia night run by Jessie for a collaboration meeting social at CERN](./assets/young_dune_trivia_social.png)
+![Early career members on Young DUNE after a trivia night run by Jessie for a collaboration meeting social at CERN](./assets/young_dune_trivia_social.png) |
 
 * Diversity Task Force
   - When: February 2021 - August 2022
@@ -111,7 +111,7 @@ Jessie working with IAIFI Summer School student during their tutorial |
 
 200 women in physics at the conference for undergraduate women in phsyics Jessie Co-Chaired at Michigan State University |
 :-------------------------: |
-![Group of 200 women in physics at the 2019 conference for undergraduate women in phsyics at MSU](./assets/2019_CUWiP_Group.jpg)
+![Group of 200 women in physics at the 2019 conference for undergraduate women in phsyics at MSU](./assets/2019_CUWiP_Group.jpg) |
 
 ## Conference for Undergraduate Women in Physics (CUWIP)
 * Co-Chair of Conference
@@ -129,5 +129,5 @@ Jessie working with IAIFI Summer School student during their tutorial |
 
 Jessie welcoming the Conference for Undergraduate Women in Physics |
 :-------------------------: |
-![Jessie with open arms in the welcome introduction to the 2019 Conference for Undergraduate Women in Physics](./assets/IMG_0105.jpg)
+![Jessie with open arms in the welcome introduction to the 2019 Conference for Undergraduate Women in Physics](./assets/IMG_0105.jpg) |
 
