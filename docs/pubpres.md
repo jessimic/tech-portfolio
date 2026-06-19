@@ -13,6 +13,8 @@ Catching Neutrinos        |  ML Alphabet Soup          | Open Questions about Ne
 
 ## Presentations
 ### Invited
+- Seminar at Argonne National Laboratory, February 2026.
+- Seminar at CERN International Accelerator, January 2026.
 - Colloquium at University of Rochester Physics Department, November 2025.
 - Plenary at Pheno2025 Symposium (University of Pittsburgh), May 2025.
 - Seminar at University of Wisconsin-Madison Physics Department, Febrauary 2025.
@@ -31,12 +33,12 @@ Jessie Presenting on Portriat of a Scientist        |  Jessie Presenting on Budd
 ![Jessie presenting a colorful portrait of a scientist](./assets/NuFact2024_Poster_Jessie.jpg)  |  ![Jessie presenting a colorful buddy system poster](./assets/BuddySytemPoster_JessieHeadshot.jpg) 
 
 ### Contributed
-- Talks and posters at Neutrino Physics and Machine Learning: July 2020 (Virtual), August 2023 (Tufts University, USA), June 2024 (ETH Zurich, Switerland), October 2025 (University of Tokyo, Japan).
+- Talks and posters at Neutrino Physics and Machine Learning: June 2026 (University of California-Irvine, USA), October 2025 (University of Tokyo, Japan), June 2024 (ETH Zurich, Switerland),  August 2023 (Tufts University, USA), July 2020 (Virtual).
+- - Poster at Neutrino International Conference: June 2026 (University of California-Irvine, USA), June 2024 (Milan, Italy), June 2022 (Virtual), June 2020 (Virtual).
 - Three talks and poster at NuFact2025 (Univsersity of Liverpool): September 2025.
 - Talk and poster at APS Global Summit (Anahiem, CA): March 2025.
 - Parallel talk and poster at NuFact Workshop (Argonne National Lab, IL): September 2024.
 - Talk at Neutrino Physics and Machine Learning (Virtual, Tufts University, ETH Zurich): July 2020, August 2023, June 2024.
-- Poster at Neutrino International Conference: June 2024 (Milan, Italy), June 2022 (Virtual), June 2020 (Virtual).
 - Talk at the Second WireCell Reconstruction Summit (Brookhaven National Lab): April 2024.
 - Parallel talks on MicroBooNE Sterile Searches and IceCube’s neutrino oscillations at International Conference on Topics in Astroparticle and Underground Physics (Vienna, Austria): September 2023.
 - Talk at the IAIFI Workshop (at Northeastern University): August 2023.
