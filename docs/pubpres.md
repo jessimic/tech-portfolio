@@ -10,6 +10,15 @@ Catching Neutrinos        |  ML Alphabet Soup          | Open Questions about Ne
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Artwork of animal crossing human using a net to catch spherical neutrinos](./assets/CatchingNeutrinos.png)  |  ![Alphebet soup noodles spelling out common machine learning acronyms such as CNN and GNN](./assets/MLAlphebet.png) |  ![Cartoons showing open neutrinos questions such as mass ordering and CP violation](./assets/NeutrinoQuestions.png)
 
+## Award Winning Talks
+
+- Best Poster Award at Neutrino Phyics and Machine Learning: October 2025
+- NuFact2025 Best Poster Award (NuFact Confernece): September 2025
+- Best Plot for MicroBooNE Analysis Workshop (MicroBooNE Physics Conveeners): November 2022
+- Best Lightning Talk (Neutrino Physics and Machine Learning Lightning Talks): July 2020
+- William L. Williams Thesis Award	(University of Michigan): Apr 2016
+- Best Research Presentation	(Conference for Undergrad Women in Physics, Univeristy of Michigan): Jan 2015
+- 1000 Pitches Technology and Hardware Winner (University of Michigan): Dec 2011
 
 ## Presentations
 ### Invited
