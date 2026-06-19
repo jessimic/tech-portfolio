@@ -1,25 +1,74 @@
 ---
 id: outreach
-title: Outreach & Teaching
+title: Teaching and Engagement
 ---
 
+## Award Winning Efforts
 
-<p>
-<img src="./assets/young_dune_trivia_social.png" width="40%" Image of about 50 early career members on Young DUNE after a trivia night run by Jessie for a collaboration meeting social>
-</p>
-<p>
-    <em>Early career members on Young DUNE after a trivia night run by Jessie (front right) for a collaboration meeting social at CERN.</em>
-</p>
+- NuFact2025 Best Poster Award (NuFact Confernece) on Buddy System: September 2025
+- IceCube Collaboration **Impact Award** (IceCube Collaboration): May 2022
+- Diversity Equity Inclusion Training Award (IceCube Collaboration): Jan 2020 
+- Outreach Award (Michigan State University’s Physics & Astronomy Department): May 2019
+
+Jessie working with IAIFI Summer School student during their tutorial
+:--------------------------------------------:
+![Jessie working with IAIFI Summer School student while presenting a tutorial on Simulation-Based Inference](./assets/iaifi_sbi_tutorial_jessie.png)
+
+## Personal Highlights
+* Buddy System Program for DUNE Collaboration Meeting
+    - When: August 2023 - present
+    - Where: DUNE Collaboration Meeting
+    - What: Single-handedly developed program that aims to support new DUNE collaborators, creates new connections for people only attending virtually, and ex networking for long-time collaborators. Developed form to facilitate matching, gather interest before each collaboration meeting (3 times a year), and make matches (separating virtual & in-person attendees) in groups of 2-3. Coordinate “meet & greet” session for matched Buddies to network during the collaboration meeting. Program and survey used by IceCube collaborator to bring to the IceCube collaboration meetings.
+* Co-Chair of Conference
+  - When: January 2018 - January 2019
+  - Where: Michigan State University (East Lansing, Michigan)
+  - What: Organized and delegated conference to support, inspire, and educate 180 undergraduate women in physics. Created a program that hosted content from 100+ speakers and volunteers with workshops focused on physics research, personal and professional development, and career path options for women in physics.
+* Portrait of a Scientist Visibility Project
+    - When: August 2020 - present
+    - Where: Virtual and In Person at Various Conferences
+    - What: Deconstruct stereotypes about who is & can be a scientist by showing multifaceted scientific identities. Assemble submissions completing the phrase "I am a scientist and I also..." at conferences and meetings. Design photo collages and video montages available at https://jessimic.github.io/tech-portfolio/docs/poas.
+
+    
+## Teaching and Mentoring
+* Research Mentor for 2 Graduate and 8 Undergraduate Students
+    - When: May 2019 - present
+    - Where: Virtual, Tufts University (Medford, MA), Michigan State University (East Lansing, MI)
+    - What: Define projects for students from various backgrounds & experience to improve neutrino experiments. Met weekly to regularly check on their progress, answer questions, and be available for mentoring. Supported student’s growth through encouraging talks, posters, & other undergraduate research programs.
+* IAIFI Summer School Tutorial
+    - When: August 2024
+    - Where: Institute for Artificial Intelligence and Fundamental Interactions at Massachusetts Institute for Technology
+    - What: Wrote tutorial for Simulation-Based Inference in machine learning for graduate students and postdocs. Ran tutorial and answered summer students’ questions for two hour tutorial session.
+* MIT Summer Research Program (MSRP)
+    - What: May 2024 - August 2024
+    - Where: Massachusetts Institute for Technology (Cambridge, MA)
+    What: Resarch advisor for visiting undergraduate student in the MSRP. Worked with daily to complete a machine learning project on DUNE prototype detector.
+* SL@MS Programming Workshop & Activities
+  - When: August 2018, August 2019, August 2021
+  - Where: Michigan State University (East Lansing, Michigan) and virtual (in 2021)
+  - What: Facilitated interactive science projects and coding workshops for under-resourced middle school students.
+* Neutrinos in Your Home with ICEcuBEAR
+  - When: February 2021 - April 2021
+  - Where: Michigan State University virtual Science Festival
+  - What: Developed interactive presentation using the IceCube Augmented Reality phone app (ICEcuBEAR).
+* Python for Physicists Programming Workshop
+  - When: January 2019, February 2020
+  - Where: Michigan State University (East Lansing, Michigan)
+  - What: Created and adapted jupyter notebook introduction to programming using Python, numpy, and matplotlib. Guided undergraduate students through notebooks at WaMPS mentoring event, also used at CUWiP 2019.
+* Assistant Head Teaching Assistant for Physics DATA Labs
+  - When: Spring 2018
+  - Where: Michigan State University Physics and Astronomy Department (East Lansing, Michigan)
+  - What: Lead weekly teaching assistant meetings, answered questions, and coordinated grading for 27 sections. Rewrote an entire lab session on plotting, adopted and taught by all Physics 251 lab sections in Spring 2018.
+* Graduate Teaching Assistant for Physics 252 & 251 DATA Labs
+  - When: Fall 2016, 2017 & Spring 2017, 2018
+  - Where: Michigan State University Physics and Astronomy Department (East Lansing, Michigan)
+  - What: Taught 20 students in introductory physics labs with mechanics, electromagnetics, and optics experiments. Provided written feedback and grades to focus improvement on scientific skills relevant to all STEM fields.
 
 ## Community Enrichment and Outreach
 * Social Office Hours Program for MicroBooNE Collaboration Meeting
     - When: August 2025 - present
     - Where: Virtual after MicroBooNE Collaboration Meeting
     - What: Launched new program to connect collaborators virtually after collaboration meeting to facilitate discussions that could not happen during the meeting (due to time or logistics) and encourage networking. Collected 10 hosts to hold a zoom hour for participants to sign up to talk with them for 15 minutes slots. Total of 17 people signed up with participants choosing to meet with more than 1 host.
-* Buddy System Program for DUNE Collaboration Meeting
-    - When: August 2023 - present
-    - Where: DUNE Collaboration Meeting
-    - What: Single-handedly developed program that aims to support new DUNE collaborators, creates new connections for people only attending virtually, and ex networking for long-time collaborators. Developed form to facilitate matching, gather interest before each collaboration meeting (3 times a year), and make matches (separating virtual & in-person attendees) in groups of 2-3. Coordinate “meet & greet” session for matched Buddies to network during the collaboration meeting. Program and survey used by IceCube collaborator to bring to the IceCube collaboration meetings.
+
 * Young DUNE Spokesperson Advisory Committee Representative
     - When: August 2023 - May 2024
     - Where: Deep Underground Neutrino Experiment (DUNE) Collaboration
@@ -33,13 +82,9 @@ title: Outreach & Teaching
   - Where: NSF AI Institute for Artificial Intelligence and Fundamental Interactions
   - What: Organize various events with awareness to integrate IAIFI members from all career & work-life backgrounds. Coordinate new regular events, including “games and crafts” nights and weekly brown bag lunches. Contributed to proposal accepted by MIT Quality of Life program to fund a workshop on the discussion of creative Artificial Intelligence methods (like ChatGPT) and the ethics behind them.
 
-
-<p>
-<img src="./assets/iaifi_sbi_tutorial_jessie.png" width="40%" Jessie working with IAIFI Summer School student>
-</p>
-<p>
-    <em>Jessie working with IAIFI Summer School student while presenting a tutorial on Simulation-Based Inference.</em>
-</p>
+50 early career members on Young DUNE after a trivia night run by Jessie for a collaboration meeting social
+:--------------------------------------------:
+![Early career members on Young DUNE after a trivia night run by Jessie for a collaboration meeting social at CERN](./assets/young_dune_trivia_social.png)
 
 * Diversity Task Force
   - When: February 2021 - August 2022
@@ -85,36 +130,3 @@ title: Outreach & Teaching
 
 <img src="./assets/IMG_0105.jpg" width="60%" Jessie presenting at the Conference for Undergraduate Women in Physics>
 
-## Teaching and Mentoring
-* Research Mentor for 2 Graduate and 8 Undergraduate Students
-    - When: May 2019 - present
-    - Where: Virtual, Tufts University (Medford, MA), Michigan State University (East Lansing, MI)
-    - What: Define projects for students from various backgrounds & experience to improve neutrino experiments. Met weekly to regularly check on their progress, answer questions, and be available for mentoring. Supported student’s growth through encouraging talks, posters, & other undergraduate research programs.
-* IAIFI Summer School Tutorial
-    - When: August 2024
-    - Where: Institute for Artificial Intelligence and Fundamental Interactions at Massachusetts Institute for Technology
-    - What: Wrote tutorial for Simulation-Based Inference in machine learning for graduate students and postdocs. Ran tutorial and answered summer students’ questions for two hour tutorial session.
-* MIT Summer Research Program (MSRP)
-    - What: May 2024 - August 2024
-    - Where: Massachusetts Institute for Technology (Cambridge, MA)
-    What: Resarch advisor for visiting undergraduate student in the MSRP. Worked with daily to complete a machine learning project on DUNE prototype detector.
-* SL@MS Programming Workshop & Activities
-  - When: August 2018, August 2019, August 2021
-  - Where: Michigan State University (East Lansing, Michigan) and virtual (in 2021)
-  - What: Facilitated interactive science projects and coding workshops for under-resourced middle school students.
-* Neutrinos in Your Home with ICEcuBEAR
-  - When: February 2021 - April 2021
-  - Where: Michigan State University virtual Science Festival
-  - What: Developed interactive presentation using the IceCube Augmented Reality phone app (ICEcuBEAR).
-* Python for Physicists Programming Workshop
-  - When: January 2019, February 2020
-  - Where: Michigan State University (East Lansing, Michigan)
-  - What: Created and adapted jupyter notebook introduction to programming using Python, numpy, and matplotlib. Guided undergraduate students through notebooks at WaMPS mentoring event, also used at CUWiP 2019.
-* Assistant Head Teaching Assistant for Physics DATA Labs
-  - When: Spring 2018
-  - Where: Michigan State University Physics and Astronomy Department (East Lansing, Michigan)
-  - What: Lead weekly teaching assistant meetings, answered questions, and coordinated grading for 27 sections. Rewrote an entire lab session on plotting, adopted and taught by all Physics 251 lab sections in Spring 2018.
-* Graduate Teaching Assistant for Physics 252 & 251 DATA Labs
-  - When: Fall 2016, 2017 & Spring 2017, 2018
-  - Where: Michigan State University Physics and Astronomy Department (East Lansing, Michigan)
-  - What: Taught 20 students in introductory physics labs with mechanics, electromagnetics, and optics experiments. Provided written feedback and grades to focus improvement on scientific skills relevant to all STEM fields.
