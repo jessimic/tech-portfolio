@@ -5,7 +5,7 @@ title: ML Projects
 
 ## Machine Learning on Particle Physics Images
 
-My machine projects have worked with a variety of media types for particle physics images. Below shows the range of inputs that we have to work with. To approach these, I have applied Convolutaional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Graph Neural Networks (GNNs) to classify and identify particle physics information from these images. Below each image, I list the methods we have explored for various tasks to identify physics in these images!
+My Machine Learning (ML) projects have worked with a variety of media types for particle physics images. Below shows the range of inputs that we have to work with. To approach these, I have applied Convolutaional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Graph Neural Networks (GNNs) to classify and identify particle physics information from these images. Below each image, I list the methods we have explored for various tasks to identify physics in these images!
 
 
 MicroBooNE Neutrino        |  DUNE Neutrinos           | IceCube Neutrinos
