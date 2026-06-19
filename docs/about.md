@@ -6,7 +6,7 @@ title: About
 Dr. Jessie Micallef (they/them) is dedicated to adapting machine learning tools to further learning and research. They aim to contribute to a high impact output with products that directly support learners, educators, and researchers. They bring a unique perspective informed by experiences in mentoring, teaching, creating programs that bolster the scientific community, and engaging with science education research on the latest successful pedagogy. 
 
 Jessie with a graphic they commissioned explaining standard model of particle physics       
-:-------------------------:
+:--------------------------------------------:
 ![Jessie sitting at their computer with their reflection visible over the graphic they created to explain the standard model of particle physics](./assets/JessieProfessional_ComputerReflection2.jpg)
 
 
@@ -15,7 +15,7 @@ Dr. Jessie is currently a postdoc scholar at Tufts University, where they use ma
 LinkedIn: https://www.linkedin.com/in/jlmicallef/
 
 Jessie getting the first of 3 Impact Award from 3 sepearate experiments
-:-------------------------:
+:--------------------------------------------:
 ![Jessie standing with other IceCube collaborators holding the IceCube impact award](./assets/336596340_626927789269355_6712213562367896535_n.jpg)
 
 ## Awards and Honors
