@@ -1,6 +1,6 @@
 ---
 id: projects
-title: Research
+title: ML Projects
 ---
 
 ## Machine Learning on Particle Physics Images
