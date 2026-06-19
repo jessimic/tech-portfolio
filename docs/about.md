@@ -5,7 +5,7 @@ title: About
 
 Dr. Jessie Micallef (they/them) is dedicated to adapting machine learning tools to further learning and research. They aim to contribute to a high impact output with products that directly support learners, educators, and researchers. They bring a unique perspective informed by experiences in mentoring, teaching, creating programs that bolster the scientific community, and engaging with science education research on the latest successful pedagogy. 
 
-Jessie with a graphic they commissioned explaining standard model of particle physics |
+Jessie with a graphic they commissioned explaining standard model of particle physics 
 :-------------------------: 
 ![Jessie sitting at their computer with their reflection visible over the graphic they created to explain the standard model of particle physics](./assets/JessieProfessional_ComputerReflection2.jpg) 
 
