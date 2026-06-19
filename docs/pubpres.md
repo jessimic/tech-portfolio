@@ -6,9 +6,9 @@ title: Communication
 Jessie has been invited to share their research at 2 professional conference plenaries, 2 university colloquium, 8 seminars including CERN, and 2 conference talks. They have given 25 other talks and posters on their work at international conferences and workshops since 2019, with previous experience extending further into their graduate and undergraduate career. They are known for engaging talks with clever graphics, with some examples below. They specialize in making their work accessible for all ages and background, creating presentations for middle school summer camps, public engagement, to professional phsyics and ML conferences.
 
 
-Catching Neutrinos        |  ML Alphabet Soup          | Open Questions about Neutrinos
-:-------------------------:|:-------------------------:|:-------------------------:
-![Artwork of animal crossing human using a net to catch spherical neutrinos](./assets/CatchingNeutrinos.png)  |  ![Alphebet soup noodles spelling out common machine learning acronyms such as CNN and GNN](./assets/MLAlphebet.png) |  ![Cartoons showing open neutrinos questions such as mass ordering and CP violation](./assets/NeutrinoQuestions.png)
+Catching Neutrinos        |  ML Alphabet Soup          | Open Questions about Neutrinos |
+:-------------------------:|:-------------------------:|:-------------------------: |
+![Artwork of animal crossing human using a net to catch spherical neutrinos](./assets/CatchingNeutrinos.png)  |  ![Alphebet soup noodles spelling out common machine learning acronyms such as CNN and GNN](./assets/MLAlphebet.png) |  ![Cartoons showing open neutrinos questions such as mass ordering and CP violation](./assets/NeutrinoQuestions.png) |
 
 ## Award Winning Talks
 
@@ -37,9 +37,9 @@ Catching Neutrinos        |  ML Alphabet Soup          | Open Questions about Ne
 - Talk at Fermilab’s Fast Inference for Neutrinos group meeting (virtual): October 2021.
 - Seminar at Harvard University Lab for Particle Physics and Cosmology (virtual): October 2021.
 
-Jessie Presenting on Portriat of a Scientist        |  Jessie Presenting on Buddy System      
-:-------------------------:|:-------------------------:
-![Jessie presenting a colorful portrait of a scientist](./assets/NuFact2024_Poster_Jessie.jpg)  |  ![Jessie presenting a colorful buddy system poster](./assets/BuddySytemPoster_JessieHeadshot.jpg) 
+Jessie Presenting on Portriat of a Scientist        |  Jessie Presenting on Buddy System   |
+:-------------------------:|:-------------------------: |
+![Jessie presenting a colorful portrait of a scientist](./assets/NuFact2024_Poster_Jessie.jpg)  |  ![Jessie presenting a colorful buddy system poster](./assets/BuddySytemPoster_JessieHeadshot.jpg) |
 
 ### Contributed
 - Talks and posters at Neutrino Physics and Machine Learning: June 2026 (University of California-Irvine, USA), October 2025 (University of Tokyo, Japan), June 2024 (ETH Zurich, Switerland),  August 2023 (Tufts University, USA), July 2020 (Virtual).
@@ -85,6 +85,6 @@ IceCube Collaboration. Fast Low Energy Reconstruction using Convolutional Neural
 - M. Tecchio, et al incl J. Micallef. The upgrade for the data acquisition system of the KOTO detector. Nucl. Instrum. Meth., A824:365–366, 2016.
 - S. Su, et al incl J. Micallef. The data acquisition system for the KOTO detector. PoS, TIPP2014:203, 2014.
 
-Jessie presenting DUNE work at Neutirno Physics and Machine Learning 2024        
-:-------------------------:
-![Image of Jessie presenting DUNE Near Detector slides](./assets/Presenting_NPML2024_Jessie.jpg) 
+Jessie presenting DUNE work at Neutirno Physics and Machine Learning 2024  |
+:-------------------------: |
+![Image of Jessie presenting DUNE Near Detector slides](./assets/Presenting_NPML2024_Jessie.jpg) |
