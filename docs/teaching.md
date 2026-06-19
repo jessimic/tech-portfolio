@@ -1,5 +1,5 @@
 ---
-id: outreach
+id: teaching
 title: Teaching and Engagement
 ---
 
@@ -10,8 +10,8 @@ title: Teaching and Engagement
 - Diversity Equity Inclusion Training Award (IceCube Collaboration): Jan 2020 
 - Outreach Award (Michigan State University’s Physics & Astronomy Department): May 2019
 
-Jessie working with IAIFI Summer School student during their tutorial
-:--------------------------------------------:
+Jessie working with IAIFI Summer School student during their tutorial |
+:-------------------------: |
 ![Jessie working with IAIFI Summer School student while presenting a tutorial on Simulation-Based Inference](./assets/iaifi_sbi_tutorial_jessie.png)
 
 ## Personal Highlights
@@ -84,8 +84,8 @@ Jessie working with IAIFI Summer School student during their tutorial
   - Where: NSF AI Institute for Artificial Intelligence and Fundamental Interactions
   - What: Organize various events with awareness to integrate IAIFI members from all career & work-life backgrounds. Coordinate new regular events, including “games and crafts” nights and weekly brown bag lunches. Contributed to proposal accepted by MIT Quality of Life program to fund a workshop on the discussion of creative Artificial Intelligence methods (like ChatGPT) and the ethics behind them.
 
-50 early career members on Young DUNE after a trivia night run by Jessie for a collaboration meeting social
-:--------------------------------------------:
+50 early career members on Young DUNE after a trivia night run by Jessie for a collaboration meeting social |
+:-------------------------: |
 ![Early career members on Young DUNE after a trivia night run by Jessie for a collaboration meeting social at CERN](./assets/young_dune_trivia_social.png)
 
 * Diversity Task Force
@@ -109,8 +109,8 @@ Jessie working with IAIFI Summer School student during their tutorial
   - Where: University of Michigan (Ann Arbor, Michigan)
   - What: Committee Chair for Slauson Middle School “Demo Day,” volunteer for Girl Scouts Day and Capstone. Organized community outreach events to spark young students’ interest in physics.Created “Update from Alumni” video for the society’s 10th anniversary.
 
-200 women in physics at the conference for undergraduate women in phsyics Jessie Co-Chaired at Michigan State University
-:--------------------------------------------:
+200 women in physics at the conference for undergraduate women in phsyics Jessie Co-Chaired at Michigan State University |
+:-------------------------: |
 ![Group of 200 women in physics at the 2019 conference for undergraduate women in phsyics at MSU](./assets/2019_CUWiP_Group.jpg)
 
 ## Conference for Undergraduate Women in Physics (CUWIP)
@@ -127,7 +127,7 @@ Jessie working with IAIFI Summer School student during their tutorial
   - Where: Toledo University (2018), Virtual (2022), Virtual (2023)
   - What: Share knowledge and experiences in physics with undergraduate women on panel and at conference events.
 
-Jessie welcoming the Conference for Undergraduate Women in Physics
-:--------------------------------------------:
+Jessie welcoming the Conference for Undergraduate Women in Physics |
+:-------------------------: |
 ![Jessie with open arms in the welcome introduction to the 2019 Conference for Undergraduate Women in Physics](./assets/IMG_0105.jpg)
 
