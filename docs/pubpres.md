@@ -1,43 +1,15 @@
 ---
 id: pubpres
-title: Publications & Presentations
+title: Communication
 ---
 
-<p>
-<img src="./assets/Presenting_NPML2024_Jessie.jpg" width="40%" Image of Jessie presenting DUNE Near Detector slides>
-</p>
-<p>
-    <em>Jessie presenting DUNE work at Neutirno Physics and Machine Learning 2024.</em>
-</p>
-  
-## Selected Publications
+Jessie has been invited to share their research at 2 plenaries, 2 university colloquium, 8 seminars including CERN, and 2 talks. They have iven 25 other talks and posters on work at international conferences and workshops since 2019, with previous experience extending into their graduate career. They are known for engaging talks with clever 
 
-Member of large particle physics collaborations, author lists are alphabetical. Listing publications with direct contribution here, full list of publications available.
 
--MicroBooNE Collaboration. Enhanced Search for Neutral Current Δ Radiative Single-Photon Production in MicroBooNE. DOI 10.1103/49ds-5hfh. November 2025.
-IceCube Collaboration. Fast Low Energy Reconstruction using Convolutional Neural Networks. Submitted to JINST. ArXiv:2505.16777. May 2025.
-- MicroBooNE Collaboration. First Search for Dark Sector e+e- Explanations of the MiniBooNE Anomaly at MicroBooNE. [DOI 2502.10900](https://arxiv.org/abs/2502.10900). February 2025.
-- MicroBooNE Collaboration.  Inclusive Search for Anomalous Single-Photon Production in MicroBooNE. [DOI 2502.06064](https://arxiv.org/abs/2502.06064). February 2025.
-- MicroBooNE Collaboration. First Search for Neutral Current Coherent Single-Photon Production in MicroBooNE. [DOI 2502.06091](https://arxiv.org/abs/2502.06091). February 2025.
-- IceCube Collaboration: R. Abbasi et al. [Measurement of atmospheric neutrino oscillation parameters using convolutional neural networks with 9.3 years of data in IceCube DeepCore](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.091801). Phys. Rev. Lett. 134, 091801. EDITOR'S SUGGESTION.
-- J. Micallef for the IceCube Collaboration. Using Convolutional Neural Networks to Reconstruct Energy of GeV Scale IceCube Neutrinos. JINST 16.09 (2021) ,p. C09019.
-- J. Micallef for the IceCube Collaboration. Reconstructing Neutrino Energy using CNNs for GeV Scale IceCube Events. PoS ICRC2021(2021) 1057.
-- S. Yu for the IceCube Collaboration. Direction Reconstruction using a CNN for GeV-ScaleNeutrinos in IceCube. PoS ICRC2021 (2021) 1054.
-- C. Hill for the IceCube Collaboration. Performance of the D-Egg optical sensor for the IceCube-Upgrade. PoS ICRC2021 (2021), 1042.
-- R. Abbasi et al. “A Convolutional Neural Network based Cascade Recon-struction for the IceCube Neutrino Observatory.” In: (Jan. 2021). arXiv:2101.11589
-- C. Adams, et al. White Paper on Neutrino Physics and Machine Learning, in-progress
-- B. Clark, et al. IceCube and IceCube-Gen2 Machine Learning, Snowmass2021 Letter of Interest, Sept 2020.
-- S. Su, et al incl J. Micallef. The Data Acquisition System of the KOTO Experiment and the RCE Platform technology upgrade. IEEE Transactions on Nuclear Science, PP(99):1–1, 2017.
-- S. Su, et al incl J. Micallef. The Data Acquisition System of the KOTO Experiment and RPT Upgrade. In Proceedings, 20th IEEE-NPSS Real Time Conference (RT2016): Padua, Italy, June 5-10, 2016, 2016.
-- M. Tecchio, et al incl J. Micallef. The upgrade for the data acquisition system of the KOTO detector. Nucl. Instrum. Meth., A824:365–366, 2016.
-- S. Su, et al incl J. Micallef. The data acquisition system for the KOTO detector. PoS, TIPP2014:203, 2014.
+Catching Neutrinos        |  ML Alphabet Soup          | Open Questions about Neutrinos
+:-------------------------:|:-------------------------:|:-------------------------:
+![Artwork of animal crossing human using a net to catch spherical neutrinos](./assets/CatchingNeutrinos.png)  |  ![Alphebet soup noodles spelling out common machine learning acronyms such as CNN and GNN](./assets/MLAlphebet.png) |  ![Cartoons showing open neutrinos questions such as mass ordering and CP violation](./assets/NeutrinoQuestions.png)
 
-<p>
-<img src="./assets/NeutrinoPoster_Jessie_2024.jpg" width="40%" Image of Jessie presenting poster on Machine Learning and DUNE Near Detector Prototypes>
-</p>
-<p>
-    <em>Jessie presenting poster on DUNE work at Neutrino 2024.</em>
-</p>
 
 ## Presentations
 ### Invited
@@ -53,6 +25,10 @@ IceCube Collaboration. Fast Low Energy Reconstruction using Convolutional Neural
 - Seminar at the IAIFI (at Massachusetts Institute of Technology): September 2022.
 - Talk at Fermilab’s Fast Inference for Neutrinos group meeting (virtual): October 2021.
 - Seminar at Harvard University Lab for Particle Physics and Cosmology (virtual): October 2021.
+
+Jessie Presenting on Portriat of a Scientist        |  Jessie Presenting on Buddy System      
+:-------------------------:|:-------------------------:
+![Jessie presenting a colorful portrait of a scientist](./assets/NuFact2024_Poster_Jessie.jpg)  |  ![Jessie presenting a colorful buddy system poster](./assets/BuddySytemPoster_JessieHeadshot.jpg) 
 
 ### Contributed
 - Talks and posters at Neutrino Physics and Machine Learning: July 2020 (Virtual), August 2023 (Tufts University, USA), June 2024 (ETH Zurich, Switerland), October 2025 (University of Tokyo, Japan).
@@ -76,9 +52,28 @@ IceCube Collaboration. Fast Low Energy Reconstruction using Convolutional Neural
 - Lightning Talk at Women in Data Science Symposium (East Lansing, MI): April 2019.
 - 5 posters and 1 talk on undergraduate research (various locations): January 2014 - April 2016.
 
-  <p>
-<img src="./assets/NuFact2024_Poster_Jessie.jpg" width="40%" Image of Jessie presenting poster on Portrait of a Scientist>
-</p>
-<p>
-    <em>Jessie presenting poster on Portrait of a Scientist work at NuFact 2024.</em>
-</p>
+## Selected Publications
+
+Member of large particle physics collaborations, author lists are alphabetical. Listing publications with direct contribution here, full list of publications available.
+
+- MicroBooNE Collaboration. Enhanced Search for Neutral Current Δ Radiative Single-Photon Production in MicroBooNE. DOI 10.1103/49ds-5hfh. November 2025.
+IceCube Collaboration. Fast Low Energy Reconstruction using Convolutional Neural Networks. Submitted to JINST. ArXiv:2505.16777. May 2025.
+- MicroBooNE Collaboration. First Search for Dark Sector e+e- Explanations of the MiniBooNE Anomaly at MicroBooNE. [DOI 2502.10900](https://arxiv.org/abs/2502.10900). February 2025.
+- MicroBooNE Collaboration.  Inclusive Search for Anomalous Single-Photon Production in MicroBooNE. [DOI 2502.06064](https://arxiv.org/abs/2502.06064). February 2025.
+- MicroBooNE Collaboration. First Search for Neutral Current Coherent Single-Photon Production in MicroBooNE. [DOI 2502.06091](https://arxiv.org/abs/2502.06091). February 2025.
+- IceCube Collaboration: R. Abbasi et al. [Measurement of atmospheric neutrino oscillation parameters using convolutional neural networks with 9.3 years of data in IceCube DeepCore](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.091801). Phys. Rev. Lett. 134, 091801. EDITOR'S SUGGESTION.
+- J. Micallef for the IceCube Collaboration. Using Convolutional Neural Networks to Reconstruct Energy of GeV Scale IceCube Neutrinos. JINST 16.09 (2021) ,p. C09019.
+- J. Micallef for the IceCube Collaboration. Reconstructing Neutrino Energy using CNNs for GeV Scale IceCube Events. PoS ICRC2021(2021) 1057.
+- S. Yu for the IceCube Collaboration. Direction Reconstruction using a CNN for GeV-ScaleNeutrinos in IceCube. PoS ICRC2021 (2021) 1054.
+- C. Hill for the IceCube Collaboration. Performance of the D-Egg optical sensor for the IceCube-Upgrade. PoS ICRC2021 (2021), 1042.
+- R. Abbasi et al. “A Convolutional Neural Network based Cascade Recon-struction for the IceCube Neutrino Observatory.” In: (Jan. 2021). arXiv:2101.11589
+- C. Adams, et al. White Paper on Neutrino Physics and Machine Learning, in-progress
+- B. Clark, et al. IceCube and IceCube-Gen2 Machine Learning, Snowmass2021 Letter of Interest, Sept 2020.
+- S. Su, et al incl J. Micallef. The Data Acquisition System of the KOTO Experiment and the RCE Platform technology upgrade. IEEE Transactions on Nuclear Science, PP(99):1–1, 2017.
+- S. Su, et al incl J. Micallef. The Data Acquisition System of the KOTO Experiment and RPT Upgrade. In Proceedings, 20th IEEE-NPSS Real Time Conference (RT2016): Padua, Italy, June 5-10, 2016, 2016.
+- M. Tecchio, et al incl J. Micallef. The upgrade for the data acquisition system of the KOTO detector. Nucl. Instrum. Meth., A824:365–366, 2016.
+- S. Su, et al incl J. Micallef. The data acquisition system for the KOTO detector. PoS, TIPP2014:203, 2014.
+
+Jessie presenting DUNE work at Neutirno Physics and Machine Learning 2024        
+:-------------------------:
+![Image of Jessie presenting DUNE Near Detector slides](./assets/Presenting_NPML2024_Jessie.jpg) 
