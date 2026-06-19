@@ -40,7 +40,7 @@ My past work focused on developing Convolutional Neural Networks (CNNs) to recon
 
 CNN Model Written by Jessie for IceCube  |  Multiple Layer CNN and GNN Model Adapted by Jessie for DUNE           
 :-------------------------:|:-------------------------:|
-![Machine learning architecture showing layers of convolutional neural networks in two parallel branches which are concatenated together into a dense layer for a single output](./assets/FLERCNN_Architecture_Simple.png) | ![Layers of Sparse CNNs, Encoders and Decoders, and GNNs used to reconstruct neutirno events in DUNE](https://github.com/DeepLearnPhysics/lartpc_mlreco3d/blob/develop/images/full_chain.png)
+![Machine learning architecture showing layers of convolutional neural networks in two parallel branches which are concatenated together into a dense layer for a single output](./assets/FLERCNN_Architecture_Simple.png) | ![Layers of Sparse CNNs, Encoders and Decoders, and GNNs used to reconstruct neutirno events in DUNE](https://raw.githubusercontent.com/DeepLearnPhysics/spine/main/docs/source/_static/img/spine-chain-alpha.png)
 
 Github with ML Reco for LArTPCs: https://github.com/DeepLearnPhysics/lartpc_mlreco3d.
 
