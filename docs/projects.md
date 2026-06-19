@@ -5,48 +5,42 @@ title: Research
 
 ## Machine Learning on Particle Physics Images
 
-My projects have worked with a variety of media types for particle physics images. 
+My machine projects have worked with a variety of media types for particle physics images. Below shows the range of inputs that we have to work with. To approach these, I have applied Convolutaional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Graph Neural Networks (GNNs) to classify and identify particle physics information from these images. Below each image, I list the methods we have explored for various tasks to identify physics in these images!
 
 
 MicroBooNE Neutrino        |  DUNE Neutrinos           | IceCube Neutrinos
 :-------------------------:|:-------------------------:|:-------------------------:
-![Image of candiate electron neutrino interaction in MicroBooNE, which is a 2D image](./assets/MicroBooNE_Event.png)  |  ![](./assets/DUNE_2x2_DATA.png) |  ![](./assets/IceCube_simulation_LE_event.png)
+![Image of candiate electron neutrino interaction in MicroBooNE, which is a 2D image](./assets/MicroBooNE_Event.png)  |  ![Image of two neutrinos in DUNE near detector prototype, 3D image](./assets/DUNE_2x2_DATA.png) |  ![Image of detectors that recorded light from neutrino interaction in IceCube, 3D image](./assets/IceCube_simulation_LE_event.png)
+https://arxiv.org/abs/2503.23384 | https://arxiv.org/pdf/2406.10123 | https://arxiv.org/pdf/2203.02303
+Sparse CNNs, RNNs, Diffusion Models, Foundation Models | GNNs, Encoders/Decoders,  | CNNs, RNNs, GNNs
 
-
-
-Link for MicroBooNE: https://www.researchgate.net/publication/390354252_First_measurement_of_nu_e_and_barnu_e_charged_current_single_charged_pion_production_differential_cross_sections_on_argon_using_the_MicroBooNE_detector
-
-Link for DUNE: https://arxiv.org/pdf/2406.10123
-
-Link for IceCube: https://arxiv.org/pdf/2203.02303
-
-
-<img src="./assets/SM_logo_nu.png" width="50%" The Standard Model of Particle Physics depicted as a puzzle with the neutrino section removed and unable to fit perfectly with the rest of the puzzle pieces>
-
-## My Scientific Motivation (with jargon)
-
-Particle physics uses the smallest, most fundamental building blocks to answer the universe’s biggest questions. My physics research focuses on answering these questions, specifically expanding our understanding of neutrino oscillation and CP violation, which can lead to answers about matter/antimatter asymmetry and Beyond Standard Model (BSM) physics. While the Standard Model of particle physics lays the foundation for fundamental interactions, several discrepancies in the neutrino sector, such as the existence of neutrino masses and flavor mixing, leave open critical questions. Thus, neutrinos provide a rich opportunity to explore the Standard Model to probe many of the aforementioned physics questions. 
-
-Machine Learning (ML) methods provide fast, stable solutions for dealing with large datasets, which is vital to next generation neutrino physics experiments. Developing ML methods for particle physics requires quickly identifying the latest AI advances and synergizing the key components into user-friendly, reliable code. These methods need to be tuned specifically to handle noisy particle physics data and tested to ensure robustness against biases in the model and data. Thus, interdisciplinary cooperation between ML and physics is key to innovative future research, particularly in particle physics.
 
 ## Neutrinos (the basics)
 
 Neutrinos are fundamental particles, meaning they cannot be broken down further, that are the source of much interest in particle physics. These nearly massless, extremely fast, and difficult to detect particles may hold the key to understand multiple questions still open in the Standard Model. 
 
-<img src="./assets/NeutrinoArePoster_Final_v2-web.jpeg" width="50%" Poster describing properties of neutrinos>
-Poster Source: https://neutrinos.fnal.gov/whats-a-neutrino/
+Standard Model             |  What are Neutrinos           
+:-------------------------:|:-------------------------:|
+![The Standard Model of Particle Physics depicted as a puzzle with the neutrino section removed and unable to fit perfectly with the rest of the puzzle pieces](./assets/SM_logo_nu.png)  |  ![Poster describing properties of neutrinos](./assets/NeutrinoArePoster_Final_v2-web.jpeg)
+Graphic that I commissioned to communicate that neutrinos do not fit perfectly into the "Standard Model" puzzle that describes fundemental partical physics| Poster designed by Fermilab communications about neutrinos https://neutrinos.fnal.gov/whats-a-neutrino/
 
-## Neural Networks
+
+## Scientific Motivation (with jargon)
+
+Particle physics uses the smallest, most fundamental building blocks to answer the universe’s biggest questions. My physics research focuses on answering these questions, specifically expanding our understanding of neutrino oscillation and CP violation, which can lead to answers about matter/antimatter asymmetry and Beyond Standard Model (BSM) physics. While the Standard Model of particle physics lays the foundation for fundamental interactions, several discrepancies in the neutrino sector, such as the existence of neutrino masses and flavor mixing, leave open critical questions. Thus, neutrinos provide a rich opportunity to explore the Standard Model to probe many of the aforementioned physics questions. 
+
+Machine Learning (ML) methods provide fast, stable solutions for dealing with large datasets, which is vital to next generation neutrino physics experiments. Developing ML methods for particle physics requires quickly identifying the latest AI advances and synergizing the key components into user-friendly, reliable code. These methods need to be tuned specifically to handle noisy particle physics data and tested to ensure robustness against biases in the model and data. Thus, interdisciplinary cooperation between ML and physics is key to innovative future research, particularly in particle physics.
+
+
+## Machine Learning with Neural Networks
 
 Neural Networks are machine learning tools that use computational training methods to understand input data, such as images, and identify certain features, labels, or estimate values. In physics, these have been used for particle physics interaction reconstructions and particle labeling. 
 
-My past work focused on developing Convolutional Neural Networks (CNNs) to reconstruct neutrinos interactions in the IceCube detector. This architecture was trained and tested for 5 different reconstruction tasks, which can be used to identify atmospheric neutrinos and constraint the neutrino oscillation parameters.
+My past work focused on developing Convolutional Neural Networks (CNNs) to reconstruct neutrinos interactions in the IceCube detector. This architecture was trained and tested for 5 different reconstruction tasks, which can be used to identify atmospheric neutrinos and constraint the neutrino oscillation parameters. Other more complex neural networks, including encoder-decoder, sparse CNNs, and graph neural networks, are leveraged to reconstruct neutrino interactions in Liquid Argon Time Projection Chamber (LArTPC) detectors. This library has been developed with plans to apply to DUNE. The architecture and outputs are describted by the image below.
 
-<img src="./assets/FLERCNN_Architecture_Simple.png" width="65%" Machine learning architecture showing layers of convolutional neural networks in two parallel branches which are concatenated together into a dense layer for a single output>
-
-Other more complex neural networks, including encoder-decoder, sparse CNNs, and graph neural networks, are leveraged to reconstruct neutrino interactions in Liquid Argon Time Projection Chamber (LArTPC) detectors. This library has been developed with plans to apply to DUNE. The architecture and outputs are describted by the image below.
-
-<img src="https://github.com/DeepLearnPhysics/lartpc_mlreco3d/blob/develop/images/full_chain.png?raw=true" width="65%">
+CNN Model Written by Jessie for IceCube  |  Multiple Layer CNN and GNN Model Adapted by Jessie for DUNE           
+:-------------------------:|:-------------------------:|
+![Machine learning architecture showing layers of convolutional neural networks in two parallel branches which are concatenated together into a dense layer for a single output](./assets/FLERCNN_Architecture_Simple.png) | ![Layers of Sparse CNNs, Encoders and Decoders, and GNNs used to reconstruct neutirno events in DUNE](https://github.com/DeepLearnPhysics/lartpc_mlreco3d/blob/develop/images/full_chain.png)
 
 Github with ML Reco for LArTPCs: https://github.com/DeepLearnPhysics/lartpc_mlreco3d.
 
