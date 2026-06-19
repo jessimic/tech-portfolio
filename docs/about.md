@@ -7,7 +7,7 @@ Dr. Jessie Micallef (they/them) is dedicated to adapting machine learning tools 
 
 Jessie with a graphic they commissioned explaining standard model of particle physics |
 :-------------------------: |
-![Jessie sitting at their computer with their reflection visible over the graphic they created to explain the standard model of particle physics](./assets/JessieProfessional_ComputerReflection2.jpg)
+![Jessie sitting at their computer with their reflection visible over the graphic they created to explain the standard model of particle physics](./assets/JessieProfessional_ComputerReflection2.jpg) |
 
 
 Dr. Jessie is currently a postdoc scholar at Tufts University, where they use machine learning to help uncover more information about neutrino particle properties. They live and work at Fermilab, which is the site for the two neutrino experiments that they are currently part of: [DUNE and MicroBooNE](projects.md). Jessie enjoys mentoring students and empowering a diverse group of next generation researchers in STEM through chairing and running [events to support women and gender minorities in physics](outreach.md), creating unique LGBTQ+ workshops and [social media campaigns](poas.md), and establishing new [networking programs](buddysyst.md). Outside academia, they enjoy creative writing, practicing jiu jitsu, cuddling their cat Ahsoka, and attending comic cons and cosplaying.
@@ -16,7 +16,7 @@ LinkedIn: https://www.linkedin.com/in/jlmicallef/
 
 Jessie getting the first of 3 Impact Award from 3 sepearate experiments |
 :-------------------------: |
-![Jessie standing with other IceCube collaborators holding the IceCube impact award](./assets/336596340_626927789269355_6712213562367896535_n.jpg)
+![Jessie standing with other IceCube collaborators holding the IceCube impact award](./assets/336596340_626927789269355_6712213562367896535_n.jpg) |
 
 ## Awards and Honors
 
@@ -64,4 +64,4 @@ Jessie getting the first of 3 Impact Award from 3 sepearate experiments |
 
 Jessie inside a particle physics detector |
 :-------------------------: |
-![Jessie inside one of the protoDUNE detectors at CERN](./assets/CERN_Jan2023.jpg)
+![Jessie inside one of the protoDUNE detectors at CERN](./assets/CERN_Jan2023.jpg) |
