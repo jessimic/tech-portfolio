@@ -23,9 +23,9 @@ Catching Neutrinos        |  ML Alphabet Soup          | Open Questions about Ne
 - 1000 Pitches Technology and Hardware Winner (University of Michigan): Dec 2011
 
 ## Public Communication Examples 
-How we know Neutrinos Oscillate [Fermilab Instagram](https://www.instagram.com/p/C87f37Uxl8G/?hl=en)     |  [Symmetry Magazine](https://www.symmetrymagazine.org/article/machine-learning-and-experiment): Machine learning and experiment         | [MIT Science](https://science.mit.edu/new-perspectives-on-old-questions-ai-meets-particle-physics/): New perspectives on Old questions: AI meets particle physics |
+How we know Neutrinos Oscillate [Fermilab Instagram](https://www.instagram.com/p/C87f37Uxl8G/?hl=en)     |  [Symmetry Magazine](https://www.symmetrymagazine.org/article/machine-learning-and-experiment): Machine learning and experiment         | [MIT Science](https://science.mit.edu/new-perspectives-on-old-questions-ai-meets-particle-physics/) |
 :-------------------------:|:-------------------------:|:-------------------------: |
-![Instagram video](./assets/Fermilab_instgram.png)  |  ![Symmetry magazine](./assets/Header_Machine_learning_and_experiment.jpg) |  ![MIT Article](./assets/MIT_Lab_shot.png) |
+![Instagram video](./assets/Fermilab_instgram.png)  |  ![Symmetry magazine](./assets/Header_Machine_learning_and_experiment.jpg) |  ![MIT Article](./assets/MITArticle.png) |
 
 ## Presentations
 ### Invited
