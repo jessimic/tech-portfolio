@@ -14,8 +14,8 @@ Catching Neutrinos        |  ML Alphabet Soup          | Open Questions about Ne
 
 - Best Poster Award at Neutrino Phyics and Machine Learning: October 2025
 - NuFact2025 Best Poster Award (NuFact Confernece): September 2025
-- MicroBooNE Collaboration. Search for an Anomalous Production of Charged-Current 𝛎e Interactions without Visible Pions across Multiple Kinematic Observables in MicroBooNE. **Editor's Suggestion** in Phys. Rev. Lett. 135, 081802. August 2025.
-- IceCube Collaboration: R. Abbasi et al. [Measurement of atmospheric neutrino oscillation parameters using convolutional neural networks with 9.3 years of data in IceCube DeepCore](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.091801). **Editor's Suggestion** in Phys. Rev. Lett. 134, 091801. March 2025.
+- MicroBooNE Collaboration. **Editor's Suggestion** in Phys. Rev. Lett. 135, 081802. August 2025.
+- IceCube Collaboration. **Editor's Suggestion** in Phys. Rev. Lett. 134, 091801. March 2025.
 - Best Plot for MicroBooNE Analysis Workshop (MicroBooNE Physics Conveeners): November 2022
 - Best Lightning Talk (Neutrino Physics and Machine Learning Lightning Talks): July 2020
 - William L. Williams Thesis Award	(University of Michigan): Apr 2016
@@ -72,16 +72,16 @@ Jessie Presenting on Portriat of a Scientist        |  Jessie Presenting on Budd
 
 ## Selected Publications
 
-Member of large particle physics collaborations, author lists are alphabetical. Listing publications with direct contribution here, full list of publications available.
+Member of large particle physics collaborations, author lists are alphabetical. Listing publications with direct contribution here, [full list](https://inspirehep.net/authors/1477750) of publications available.
 
 - MicroBooNE Collaboration. Inclusive Search for Anomalous Single-Photon Production in MicroBooNE.  DOI 10.1103/89qs-4lcp. Phys. Rev. Lett. 136, 181806. May 2026.
 - MicroBooNE Collaboration. First Search for Dark Sector e+e- Explanations of the MiniBooNE Anomaly at MicroBooNE  DOI 10.1103/3q7x-ks7h. Phys. Rev. Lett. 136, 121804. March 2026.
 - IceCube Collaboration. Fast Low Energy Reconstruction using Convolutional Neural Networks. JINST 21 P02020. February 2026.
 - MicroBooNE Collaboration. Search for light sterile neutrinos with two neutrino beams at MicroBooNE. **Nature**, volume 648,  pages 64–69. December 2025.
 - MicroBooNE Collaboration. Enhanced Search for Neutral Current Δ Radiative Single-Photon Production in MicroBooNE. DOI 10.1103/49ds-5hfh. November 2025.
-- MicroBooNE Collaboration. First Search for Neutral Current Coherent Single-Photon Production in MicroBooNE. [DOI 2502.06091](https://arxiv.org/abs/2502.06091). February 2025.
+- MicroBooNE Collaboration. First Search for Neutral Current Coherent Single-Photon Production in MicroBooNE. DOI 2502.06091. February 2025.
 - MicroBooNE Collaboration. Search for an Anomalous Production of Charged-Current 𝛎e Interactions without Visible Pions across Multiple Kinematic Observables in MicroBooNE. **Editor's Suggestion** in Phys. Rev. Lett. 135, 081802. August 2025.
-- IceCube Collaboration: R. Abbasi et al. [Measurement of atmospheric neutrino oscillation parameters using convolutional neural networks with 9.3 years of data in IceCube DeepCore](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.091801). **Editor's Suggestion** in Phys. Rev. Lett. 134, 091801. March 2025.
+- IceCube Collaboration. Measurement of atmospheric neutrino oscillation parameters using convolutional neural networks with 9.3 years of data in IceCube DeepCore. **Editor's Suggestion** in Phys. Rev. Lett. 134, 091801. March 2025.
 - J. Micallef for the IceCube Collaboration. Using Convolutional Neural Networks to Reconstruct Energy of GeV Scale IceCube Neutrinos. JINST 16.09 (2021) ,p. C09019.
 - J. Micallef for the IceCube Collaboration. Reconstructing Neutrino Energy using CNNs for GeV Scale IceCube Events. PoS ICRC2021(2021) 1057.
 - S. Yu for the IceCube Collaboration. Direction Reconstruction using a CNN for GeV-ScaleNeutrinos in IceCube. PoS ICRC2021 (2021) 1054.
