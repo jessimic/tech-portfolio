@@ -76,7 +76,7 @@ Jessie working with IAIFI Summer School student during their tutorial |
     - Where: Deep Underground Neutrino Experiment (DUNE) Collaboration
     - What: Advocate for the interests and concerns of early career scientists on the DUNE collaboration and bring them to the Spokesperson Advisory Committee meetings. Gather impressions from 250+ early career scientists on DUNE on important issues such as ensuring early career recognition in the collaboration, improving talk request process, & potential to organize a retreat. Created Impact Award proposal that the Spokesperson Advisory Committee approved and will run yearly.
 * IAIFI Early Career and Equity Committee
-  - When: February 2022 - January 2025
+  - When: February 2023 - January 2025
   - Where: NSF AI Institute for Artificial Intelligence and Fundamental Interactions
   - What: Meet monthly to discuss improvements to provide equitable environment at IAIFI and support early career scientists by providing recommendation. Spearheaded conscious effect to integrate affinity group celebrations (history months, STEM+ days) into our event planning to increase awareness of minorities to support and make IAIFI events more accessible.
 * IAIFI Community Building Committee
