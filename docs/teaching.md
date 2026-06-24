@@ -79,7 +79,7 @@ Jessie working with IAIFI Summer School student during their tutorial |
   - When: February 2023 - January 2025
   - Where: NSF AI Institute for Artificial Intelligence and Fundamental Interactions
   - What: Meet monthly to discuss improvements to provide equitable environment at IAIFI and support early career scientists by providing recommendation. Spearheaded conscious effect to integrate affinity group celebrations (history months, STEM+ days) into our event planning to increase awareness of minorities to support and make IAIFI events more accessible.
-* IAIFI Community Building Committee
+* IAIFI Community Building and Inclusion Committee
   - When: September 2022 - August 2024
   - Where: NSF AI Institute for Artificial Intelligence and Fundamental Interactions
   - What: Organize various events with awareness to integrate IAIFI members from all career & work-life backgrounds. Coordinate new regular events, including “games and crafts” nights and weekly brown bag lunches. Contributed to proposal accepted by MIT Quality of Life program to fund a workshop on the discussion of creative Artificial Intelligence methods (like ChatGPT) and the ethics behind them.
