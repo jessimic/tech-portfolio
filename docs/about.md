@@ -28,8 +28,6 @@ Jessie getting the first of 3 Impact Award from 3 sepearate experiments |
 - IceCube Collaboration **Impact Award** (IceCube Collaboration): May 2022
 - Rising Stars in Experimental Particle Physics Symposium (University of Chicago): Sept 2021
 - Best Lightning Talk (Neutrino Physics and Machine Learning Lightning Talks): July 2020
-- Diversity Equity Inclusion Training Award (IceCube Collaboration): Jan 2020 
-- Women in Computing Award (Microsoft Windows Insider Program): Oct 2019
 - Outreach Award (Michigan State University’s Physics & Astronomy Department): May 2019
 - William L. Williams Thesis Award	(University of Michigan): Apr 2016
 - Outstanding Achievement in Physics Award (University of Michigan): May 2015
@@ -38,18 +36,21 @@ Jessie getting the first of 3 Impact Award from 3 sepearate experiments |
 - 1000 Pitches Technology and Hardware Winner (University of Michigan): Dec 2011
 - Provisional Patent (No. 61/409,855 ) for Radio Jammer Device: Filed 3 Nov 2010
 
+## Successful Fellowships and Funding
+
+- Two [DUNE-TECH](https://dune-tech.rice.edu/) Travel Funding Supports: June 2026
+- University Research Alliance Visting Scholars Porgram at Fermilab National Lab: March 2023 - June 2024
+- NSF AI Institute for Artificial Intelligence and Fundamental Physics Postdoctoral Fellowship: Sept 2022 - Aug 2025
+- Women in Computing Award (Microsoft Windows Insider Program): Oct 2019
+- Diversity Equity Inclusion Training Award (IceCube Collaboration): Jan 2020 
+- National Science Foundation Graduate Research Fellowship: Sept 2017 - Sept 2022
+- Association for Computing Machinery (ACM) Special Interest Group on High Performance Computing (SIGHPC) and Intel Computational Science Fellowship: July 2017 - July 2021
+- Otto F. and Jenny H. Krauss Charitable Foundation Distinguished Fellowship at Michgan State University: Summer 2016
+
 ## Education
 - Dual PhD in Physics and Computational Mathematics, Science, and Engineering from Michigan State University (2022)
 - Masters in Physics from Michigan State University (2019)
 - Bachelors in Science in Physics and Screen Arts and Cultures, minor in Chemistry, at the Residential College at University of Michigan (2016)
-
-## Fellowships and Funding
-
-- University Research Alliance Visting Scholars Porgram at Fermilab National Lab: March 2023 - June 2024
-- NSF AI Institute for Artificial Intelligence and Fundamental Physics Postdoctoral Fellowship: Sept 2022 - Aug 2025
-- National Science Foundation Graduate Research Fellowship: Sept 2017 - Sept 2022
-- Association for Computing Machinery (ACM) Special Interest Group on High Performance Computing (SIGHPC) and Intel Computational Science Fellowship: July 2017 - July 2021
-- Otto F. and Jenny H. Krauss Charitable Foundation Distinguished Fellowship at Michgan State University: Summer 2016
 
 ## Current Roles
 
