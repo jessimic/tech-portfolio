@@ -1,9 +1,9 @@
 ---
-id: poas
-title: Portrait of a Scientist
+id: elements
+title: Elements of STEM
 ---
 
-Portrait of a Scientist aims to deconstruct stereotypes about what a scientist looks and acts like and demystify who can be a scientist. It relies on community submitted videos and images that complete the phrase "I am a scientist and I also..." Please help us show that anyone can be a scientist!
+Elements of STEM (formerly Portrait of a Scientist) aims to deconstruct stereotypes about what a scientist looks and acts like and demystify who can be a scientist. It relies on community submitted videos and images that complete the phrase "I am a scientist and I also..." Please help us show that anyone can be a in Science, Technology, Engineering, and Mathematics!
 
 ![Collage of scientists from the APS Global Summit 2025 holding a sign they have filled out saying they are scientists and also other ideneities and have other hobbies](./assets/POAS_APS2025.png)
 
